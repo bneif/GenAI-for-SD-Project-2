@@ -1,0 +1,5000 @@
+if ignore_non_errors and is_noerr ( e ) :
+if prev_mem is None :
+if example_len > max_length :
+if item . get ( "type" , "" ) == "audio" :
+if var . can_contain ( "." ) :
+if socketID [ 1 ] :
+if curses . tigetnum ( "colors" ) > 0 :
+if align :
+if len ( value ) > 1 :
+if len ( dt_string ) > 2 :
+if not isinstance ( item , unicode ) :
+if not isinstance ( result_key , list ) :
+if file_name . endswith ( ".snap" ) :
+if s not in statement :
+if check . message :
+if build_data . built ( dpath ) :
+if i == self . num_layers - 1
+if widgets :
+if not os . path . exists ( path ) :
+if tag_dict [ "name" ] == tag :
+if max_items :
+if to_boolean ( callbackfn . call ( _this , ( kValue , float ( k ) , array ) ) ) :
+if error :
+if key in LoggerFactory . schedule_logger_dict :
+elif item [ 3 ] :
+if os . path . exists ( data_file ) :
+if action_name in self . handlers :
+if ref [ "id" ] == story_id :
+if i == j :
+if op . attr_key == "storage_scope" :
+if asname is None :
+if matched :
+if not self . get ( "datacenter" ) :
+if not is_safe_url ( url = back_url , allowed_hosts = { self . request . get_host ( ) } ) :
+if url . startswith ( "https://" ) :
+if self . line != 0 :
+if item :
+if first_to_delete == 0 :
+if old_album_title == track . metadata [ "album" ] :
+if target == "*" :
+if position < editor . document ( ) . characterCount ( ) :
+if type_name not in new_results :
+if account_id in config . get ( "celery.test_account_ids" , [ ] ) :
+if topic in feconf . AVAILABLE_LANDING_PAGES [ subject ] :
+if run :
+if self . _start_index_is_ok ( string , index ) :
+elif rasa . shared . data . is_likely_markdown_file ( export_path ) :
+if p . v . children :
+if value is None :
+if desc . getAttributeNS ( RDF_NAMESPACE , "about" ) == aboutUri :
+if self . timeout :
+if message_text :
+if conn :
+if not data :
+if command . cmd == MACHOFlags . LC_SEGMENT_128 :
+if verbosity > 1 :
+if url :
+if line . lower ( ) . startswith ( "version:" ) :
+if key in self . _store :
+if row . get_string ( "User" ) not in connections :
+if path == asset_path :
+if need_to_add_callback :
+if cache_aliases :
+if hasattr ( subscriber , "_pyroRelease" ) :
+if "id" in modify_kwargs :
+if self . config . secure :
+if title :
+elif item [ "layout" ] == "vert" :
+if user_data . errors :
+if frac < 0 :
+elif os . path . exists ( os . path . join ( basedir , filename ) ) :
+if effect . assistive is True :
+if dist < min_dist :
+if self . _is_default_route ( route ) :
+elif isinstance ( d , bytes ) :
+if func :
+if isinstance ( value , list ) :
+if v [ "FeatureType" ] == "val" :
+if isinstance ( v , dict ) :
+elif self . _keys [ hash_ ] == key :
+if response is None :
+if r is None :
+if result :
+if e in env_variables :
+if not source :
+if when :
+if timeout_multiplier < 0.5 :
+if len ( res ) == 0 :
+if vr :
+if cgiName in self . headerNames :
+if string_value :
+if not self . config . label_enable or ouro_label . lower ( ) in [ "true" , "yes" ] :
+if ref in self . _editableChildren :
+if mtp is None :
+if fd not in keep :
+if first_child . hasChildNodes ( ) :
+if request . body :
+if mod in disabled_modules :
+if isinstance ( win , RibbonControl ) :
+if pname in processes :
+if not isinstance ( i , int ) :
+if max_indent > self . column :
+elif col == FOOD :
+if branch_wise_entries . get ( d . branch ) :
+if task_id is not None
+if os . path . basename ( p ) != "CVS" and os . path . isdir ( os . path . join ( d , p ) )
+if isinstance ( command , str ) :
+if self . scan_done :
+elif not isinstance ( data , HTTPDisconnect ) :
+if text . startswith ( px ) :
+elif type ( item ) in ( list , tuple , dict , set ) :
+elif module in _compat_pickle . IMPORT_MAPPING :
+if wr is None :
+if not inspect . iscoroutinefunction ( implemented_method ) :
+if arguments is None :
+if w . timer_precision is None :
+if isinstance ( request . getfixturevalue ( request . param ) , str ) :
+if isinstance ( item , tf . keras . layers . Layer ) :
+if extension not in _dictionary_formats ( ) :
+if ndx > 0 :
+if np . array_equal ( observed , self . blur3x3 ) :
+if not self . is_playback ( ) :
+if device
+if not self . sub_unit_1 [ "fitted" ] :
+if last_id :
+if c is not None :
+if isinstance ( plex_section , list ) :
+if xlib . XFilterEvent ( e , e . xany . window ) :
+if len ( self . possibilities ) == 1 :
+if not paginated_logs :
+if not context_id_list_tuple :
+if path . lower ( ) . endswith ( ".egg" ) :
+if os . path . isfile ( val ) :
+if itemid :
+if not bytes :
+if mask in attrs :
+if isinstance ( conf . cookie , dict ) :
+if not self . _alive or not other . _alive :
+if reset :
+elif member [ 0 ] == "wildcards" :
+if keep_current is not None and k not in keep_current :
+elif wrapped :
+if k in striped_keys :
+if X2 is None :
+if os . path . isfile ( real_path ) :
+if match :
+if re . match ( "[+-]" , str ( tokens [ e ] ) ) :
+if replace :
+if bp . cond == item_id :
+if future_nzo . url_tries > cfg . max_url_retries ( ) :
+if not_numeric :
+if self . prefix == event [ : len ( self . prefix ) ] :
+if inspect . ismodule ( attr ) :
+if view . buffer_id ( ) in persist . assigned_linters and view . is_primary ( ) :
+if gender :
+if project . add_to_pythonpath ( path ) :
+if not isinstance ( value . grid_id , ObjectId ) :
+if if_first :
+elif code == Path . LINETO :
+if build_info [ "building" ] :
+if type ( default ) == float :
+if response . status == 200 :
+if not isinstance ( key , int ) :
+if child . Value == toggle :
+elif patching . new is DEFAULT :
+if attrnames . has_key ( mask ) :
+if "init" not in item . keywords :
+if not chunk :
+if self . _foreach_mode == "get" :
+elif head_name != "System`Missing" :
+if token in self . simulator_config . item_dict :
+if alias . name == "*" :
+if len ( new_list ) == batch_list . size :
+if upstream_b == arg :
+if not hasattr ( self , name ) :
+if not self . _override :
+if b64 :
+if p [ 0 ] not in parts :
+if t is not None :
+if resize_keyboard is not None and resize_keyboard is not None :
+if during is not None :
+if self . string [ pos ] == "." :
+if e . errno != errno . EEXIST :
+if num > 1 :
+if self . fail_silently :
+if realm is None :
+if n == pos :
+if self . _tree :
+if not searchtrie . has_key ( token ) :
+if param is None :
+elif donel [ 0 ] :
+if change . project is None or user . can_access_project ( change . project ) :
+if action . data . get ( "target_group_arn" ) == target_group_arn :
+if ( w , pos ) not in self . word_dict :
+elif section :
+if hook_result is False :
+if total_amount_in_payments > invoice_total :
+if not cache [ key ] :
+if j == i :
+if isinstance ( payload , LiveActionDB ) :
+if r == 0 :
+if "." in warning_type :
+if timeout is None :
+if samefile ( dir , os . curdir ) :
+if c in temp :
+if self . get ( soil_type ) > 100 or self . get ( soil_type ) < 0 :
+if run :
+if name in names :
+if datestring . endswith ( "Z" ) :
+if line :
+if isinstance ( s , ProgBits ) :
+if filename is None :
+if args . host :
+elif isinstance ( row , ConnectedWorker ) :
+if not hasattr ( node . fgraph , "shape_feature" ) :
+if not os . path . exists ( ini_path ) :
+if isinstance ( m , nn . Conv2d ) :
+if value == "DD-MM-YYYY" :
+if hasattr ( py_obj , "masks" ) and py_obj . masks :
+if stat . S_ISREG ( st . st_mode ) :
+if query in keywords :
+if get_sql_dialect ( self . session ) == "sqlite" :
+if i < 2 :
+if isinstance ( value , dict ) :
+if " : " in header :
+if isinstance ( v , ( list , tuple ) ) :
+if item_key != "sourceVault" :
+if isinstance ( fvalue , Packet ) :
+if sub_fields :
+if passphrase is None :
+if tzinfo is None :
+if is_empty ( line ) :
+if uri :
+if child . parent is None :
+if layer_name in graph :
+elif i == 2 :
+if used > self . speed :
+if length > 0 :
+if unzip and zipfile . is_zipfile ( uploaded_file ) :
+if self . is_secret_false_positive ( identifier ) :
+elif "IsRequired" in spec and spec [ "IsRequired" ] :
+elif mod_type == imp . PKG_DIRECTORY :
+if operand . ndim < 2 or operand . shape [ - 2 ] != operand . shape [ - 1 ] :
+if param_match is None :
+if param . startswith ( "encoder" ) :
+if isinstance ( value , np . ndarray ) :
+if colormap . value :
+if br . layer is Layer . Blocks or br . layer not in layers
+if line . startswith ( "#" ) or line == "" :
+if rel_path is None :
+if not platform . is_linux ( ) :
+if isinstance ( process , self . queryset . model ) :
+if isinstance ( c , addnodes . start_of_file ) :
+if job . release_time is not None :
+if match is None :
+if hasattr ( data , "next" ) or hasattr ( data , "__next__" ) :
+if Config . get ( "current_download" ) == self . game . id :
+if doc :
+if task . prune :
+if not is_string ( name ) :
+if Driver . needsQuoting ( val , True ) :
+if n in failed_ops :
+if self . expected_inner_sha :
+if self . _widgets__ [ n ] . editable and not self . _widgets__ [ n ] . hidden :
+if message_id not in self . _events :
+if res is not None :
+if action_node . notify :
+if isinstance ( centered , float ) :
+if matches :
+elif size <= 6 :
+if cur_timeout <= 0 :
+if query . query_id != self . query_id :
+if matchAnon :
+if penalty == "auto" :
+if not os . path . isfile ( path ) :
+if field . id == conditional . right :
+if path . exists ( ) :
+if isinstance ( nca , Nca ) :
+elif s . startswith ( "Proc-Type" ) and "ENCRYPTED" in s :
+if name not in seen :
+if isinstance ( inputs [ 1 ] , int ) :
+if len ( bucket ) :
+if resultset [ "result" ] :
+if devices :
+if key != "User-Agent" :
+elif not metadata . get ( "nargs" ) :
+elif self . action_input . selected_index == 1 :
+if reset == 0 :
+if attachment . post_id :
+if isinstance ( index , int ) :
+elif self . _pos == start :
+if "build" in root and "build_sdk" not in root :
+if encoding == "x509_asn" :
+if isinstance ( tokenizer , BertTokenizer ) :
+if resolve is not None :
+if hasattr ( base , "trace" ) :
+if printElemNumber :
+elif c == ">" :
+if i + batch_size < total :
+if splitrow [ 0 ] == "info" and "info" in splitrow :
+if not result :
+if addon . _current_version_id == version . id :
+if axis_number not in position :
+if old in kwargs :
+if attempts == 0 :
+if new_value > PREFETCH_COUNT_MAX :
+if self . prefix :
+if name not in skip :
+if set_ [ i ] [ 0 ] >= set_ [ i + 1 ] [ 0 ] :
+if not os . path . isdir ( pp ) :
+if allow_transfer_encoding_codes :
+if hint is None :
+if isdir :
+if source not in self . data :
+if optstring == "" :
+if k in ignore_keys :
+if b :
+if answer . upper ( ) == "F" :
+if isinstance ( in_arrays , tuple ) :
+if not util . wait_for_write ( self . socket , self . socket . gettimeout ( ) ) :
+if len ( parts ) > 1 :
+if setter is not None and isinstance ( setter , collections . Callable ) :
+if self . _tex_coords_cache_version != self . domain . _version :
+if char in br :
+if os . path . exists ( path ) :
+if tweak is None :
+if chgd :
+if min [ d ] > node . data [ d ] :
+if not m :
+if curses . tigetnum ( "colors" ) > 0 :
+if isinstance ( child , wx . lib . stattext . GenStaticText ) :
+if self . items is not None :
+if self . use_epoch_metrics :
+elif e . get ( "event" ) == ActionExecuted . type_name :
+if in_port :
+if 20 < ( proposed_next_month - dt ) . days < 40 :
+if error :
+if mapper :
+elif isinstance ( arg , str ) :
+if support . match_test ( test ) :
+if page . relations . disambiguation_links_norm is not None :
+if isinstance ( expected , Exception ) :
+if root . startswith ( p ) :
+if event :
+if maxKey > histo [ key ] :
+if is_ST3 ( ) :
+if len ( items ) == 1 :
+if fname [ - 4 : ] == ".pyc" :
+if "pseudo-interface" in nic . replace ( " " , "-" ) . lower ( ) :
+if attrs is None :
+if screenshot_name :
+if WIN or greentest . LINUX :
+if ":" in s :
+if passed :
+if len ( data ) > 100 :
+if type ( value ) is dict :
+elif self . end_id < pack_id :
+if self . _anchors_none :
+if trial == 1 :
+if res :
+elif len ( value ) != 0 :
+if self . mismatch_description :
+if list ( config . keys ( ) ) == [ "$env" ] :
+if os . path . isfile ( datafilename ) :
+if self . timeout is None :
+if error_on_path :
+if sparse_A . type . format == "csc" :
+if len ( actions ) == 0 :
+if ex . errno == errno . EINTR :
+if learner . dfa . matches ( s ) != learner . member ( s ) :
+if cost_name == "cosine" :
+if not isinstance ( dirname , str ) :
+if self . _return_feature ( f ) and hasattr ( f , name ) :
+if occupied :
+if type ( value ) is dict :
+if is_leaf ( child ) and hasattr ( child , "old_forward" ) :
+if obj . __class__ in ( Double , Long ) :
+if not copyright . find ( "200" ) >= 0 and not copyright . find ( "199" ) >= 0 :
+if context . next_indent < context . indent :
+if log_cmd . check ( f"docker logs for {self.path.k8s}" ) :
+if master :
+if agent_name not in unsupported_agents :
+elif isinstance ( plug , Gaffer . Color3fPlug ) :
+if not ( "success" in out ) or not out [ "success" ] :
+if tag == "layers" :
+if not node :
+elif val < 1024 ** 3 :
+if reuse_len is not None :
+if builder . provider . dialect == "MySQL" :
+if cf . required :
+if item_hash == possible_child_hash :
+if self . use_unordered_batch :
+if cell not in self . cell_id_map :
+if shared :
+if isinstance ( child , pytree . Leaf ) and child . value == "|" :
+if len ( data ) < self . limit :
+if not any ( isinstance ( m . message , expected ) for m in w ) :
+if k . startswith ( "__" ) :
+if omit and start :
+if retval == BLOCK_MARKER . NOP :
+if not instance_info . is_running ( ) :
+if self . is_sql :
+if self . _LazyAddAttr_ ( attr ) :
+if not self . management_form . is_valid ( ) :
+if self <= 3 :
+if "completion_message" in completion_message . classes :
+if self . _stopped :
+elif k is None :
+if process_fn is None :
+if self . _has_reference_screenshots ( ) :
+if task . status_code == 404 :
+if not self . block ( user_id ) :
+if r :
+if method is not None :
+if t . id != Id . Ignored_LineCont :
+if ctx :
+if line . startswith ( b"OK" ) :
+if stat . S_ISDIR ( int ( response . st_mode ) ) :
+if self . norm_means :
+if self . implementsAnyFixture ( ancestor , ctx_callback = ctx_callback ) :
+if moduleID == active :
+if host . lower ( ) == self . host and port == self . port :
+if panel_name :
+elif isinstance ( node , addnodes . start_of_file ) :
+if tt == 0 :
+if not self . raise_on_bad_gender_differences :
+elif event . GetKeyCode ( ) == wx . WXK_RETURN :
+if not self . sync_up ( ) :
+if downloads :
+if line :
+if hasattr ( self , "instance_id" ) :
+if count % 100 == 0 :
+elif fieldname in fieldname_map and fieldname_map [ fieldname ] == "source" :
+if not layouts . get ( h ) :
+if defaults is None :
+if isinstance ( v , list ) :
+if self . size > 0 :
+elif mode == "add" :
+if in_word :
+if len_map is not None :
+if f . __doc__ :
+if category not in self . errors_by_category :
+if _ in data :
+if count > threshold :
+if token . value == "{" :
+elif s . startswith ( "Proc-Type" ) and "ENCRYPTED" in s :
+if active :
+if len ( self . elements ) == 0 :
+if vm :
+if name != "__init__" :
+if QtCore :
+if "Logging" in b :
+if isinstance ( v , I18nFormField ) :
+if new_val != old_val :
+if os . path . exists ( main_vault_directory ) :
+if update_previous_revision :
+if name in self . __ast_frozen_fields__ :
+if arg not in data or ( isinstance ( data [ arg ] , list ) and len ( data [ arg ] ) < 1 ) :
+if ( w , pos ) in self . composite_dict :
+elif obj . name == "q" :
+if commands [ command_count ] :
+if context . check_call_arg_value ( "debug" , "True" ) :
+if request :
+if offer . job_applicant not in ja_joff_map . keys ( ) :
+if len ( t ) == 1 :
+if any ( ( dirpath . startswith ( s + os . sep ) or s == dirpath ) for s in skip ) :
+if units == "units" :
+if hasattr ( policy . featurizer , "max_history" ) :
+if self . compare_entries ( compare_entry , compare_base ) :
+if not result :
+if attrs [ 1 ] :
+if not isinstance ( controls_ids , list ) :
+if isinstance ( value , Value ) :
+if is_strong and property in self . _properties :
+if i == start :
+if mod . type == "DISPLACE" :
+if isinstance ( path , tuple ) :
+if build_data . built ( dpath ) :
+if targets :
+if i == 0 :
+if processor_id in self . mappings :
+if self . wait_counter == self . wait_cntr_max :
+if prefetch :
+if self . config . absolute :
+if i :
+if namespace is not None :
+if result :
+if not isinstance ( typ , NoneType ) :
+if len ( items ) > 1 :
+if os . path . exists ( self . icon ) :
+if handler . name == "stdoutLogger" :
+if self . cleaned_data . get ( "update" , None ) or not self . instance . stores . count ( ) :
+if tail :
+if file_ :
+if name in self :
+if row :
+if len ( fsize ) == 2 :
+if cur == b"" :
+if status . get ( "item" , None ) in acceptable_statuses :
+if not isinstance ( body , self . _handler . message_type ) :
+if hasattr ( page , "source" ) and isinstance ( page . source , File ) :
+if a == best_a :
+if partition_id in self . _consumers :
+if source is None :
+if clear :
+if c == 0 :
+if item is None :
+if k in self . schema . get ( "secret" , [ ] ) and v == SECRET_PLACEHOLDER :
+if check_unknown :
+if ia . is_np_array ( arr ) :
+if expanded [ 0 ] == "*" :
+elif isinstance ( v , basestring ) :
+if self . __stack . count ( ) > 1 :
+if url . startswith ( "https://" ) :
+if o
+if lemma is None :
+if len ( color ) == 3 :
+if not name :
+if status :
+if work . parent is None :
+if ignore_non_errors and is_noerr ( e ) :
+elif htype == "Date & Time" :
+if refine :
+if font_datablock :
+if self . __class__ is other . __class__ :
+elif field . _name in settings :
+if hasattr ( a , "includedirs" ) :
+if abs_array < 0.0 :
+if w in boundaries :
+if i . id is not None :
+if receive . status != 200 :
+elif isinstance ( d , basestring ) :
+if mod == "__init__" or not mod . startswith ( "_" ) :
+if alias not in excluded_aliases :
+if event not in item :
+if idx == 0 :
+if inst . isa_set in chipdb [ chip ] :
+if not topic_name . startswith ( "." ) :
+if name :
+if not hasattr ( m , "likelihood" ) :
+if header == b"OXLI" :
+if isinstance ( v , list ) :
+if self . _generated [ 0 ] :
+if len ( tasks ) != 1 or is_list ( tasks [ 0 ] ) :
+if file_sources is None :
+if c . IsOk ( ) :
+if obj . typecode == "c" :
+if t :
+elif token . token_type == TOKEN_VAR :
+if np . any ( is_NA ) :
+if int ( idx ) > 0 :
+if ( msg_ts > ( time . time ( ) + 24 * 3600 ) ) or ( msg_ts < 1 ) :
+if chosen_db :
+if key in IGNORED_FIRST_LEVEL :
+if row is None :
+if re . match ( json_pattern , line ) :
+if score is not None :
+if support . match_test ( test ) :
+if dead_threads :
+if order_by . startswith ( "-" ) :
+if dt <= 0.0 :
+if getattr ( sys , "_MEIPASS" , "" ) is not None :
+if len ( names ) > 1 :
+if stat . S_ISDIR ( int ( response . st_mode ) ) :
+if letter . isalnum ( ) or letter == " " :
+if not is_command ( line ) :
+if not record :
+if gen is not None :
+if not self . indexobj [ base + ind ] :
+if cls . __name__ != "DirectiveAdapter" :
+if not src :
+if self . sort_indices :
+if ( col_val is not None ) and ( not is_quantity ( col_val ) ) :
+if proc . is_alive ( ) :
+if neededCopies > network . maxCopies :
+if states . get ( "warmup_scheduler" ) :
+if v is None :
+if isinstance ( data , InstrumentedList ) or isinstance ( data , list ) :
+if sys . _getframe ( 1 ) . f_globals [ "__name__" ] not in [ "abc" , "functools" ] :
+if version . startswith ( "pypy" )
+if body is not None :
+if v :
+if random . random ( ) < self . off_pol_frac :
+if os . path . isdir ( locale_dir ) :
+if email :
+if c . getYAxis ( ) == Y_AXIS :
+if href :
+if not version :
+if self . _worker_thread_done :
+if not self . attributes :
+if credentails . get ( "response" ) == response_hash :
+elif ctx . running_mode == RunningMode . local_cluster :
+elif registries . match ( handler = handler , cause = cause , ignore_fields = True ) :
+if completed_process . stdout is not None :
+if decomposed is None :
+if self . app . UntitledNotepad [ "Do&n't Save" ] . exists ( ) :
+if proc . poll ( ) is None :
+elif isinstance ( expectation , Exception ) :
+if all ( isinstance ( k ) for k in d ) :
+if subr != const . ENoError :
+if condfield in sigmaparser . values :
+if granted or user . has_perm ( perm ) :
+if earlier_part == current [ "part" ] and earlier_step == current [ "step" ] :
+if self . named_windows [ wnd_name ] == 1 :
+if next == - 1 :
+elif other [ i ] < self [ i ] :
+elif not user :
+if indices is not None :
+if t == "Handle" and m == "InMode" :
+if not text . endswith ( "\n" ) :
+elif self . _pos == start :
+if e . args [ 0 ] == errno . EADDRINUSE :
+if self . expr is not None :
+if page . is_linked :
+if len ( buf ) == 0 :
+if ignore_pull_failures :
+if isinstance ( const , blocks . OrderedCode ) :
+if hasattr ( local_stdout , "buffer" ) :
+elif line . startswith ( "FAIL:" ) and prev_line and prev_line . startswith ( "=" ) :
+if self . _tail :
+if consumer . in_parser . is_message_complete ( ) :
+if cat == "None" :
+if strategy == self . strategy :
+if delete :
+if async_load :
+elif self . lookup_opts . ordering :
+if b . persistent and persistent is not None :
+if "/* get_messages */" in query [ "sql" ] :
+if i == current_sequence ( ) . get_first_active_track ( ) . id :
+if exc . args [ 0 ] == 404 :
+if hasattr ( sys , "setswitchinterval" ) :
+if f is not None and f . type in ( "or" , "and" , "not" ) :
+if code [ pos ] == '"' :
+if not path . startswith ( name + "/" ) :
+if i >= self . tailoff ( ) :
+if isinstance ( other , np . ndarray ) :
+elif statusline == "unknown:" :
+if writer is not None :
+if now - path > 60 * 60 :
+if stdout :
+if info_f not in metadata :
+if model_site [ "type" ] == "sample" :
+if prog . match ( line ) :
+if infinite :
+if ntype in dst_nodes :
+if m in candidates :
+if isinstance ( col , CurrentColumn ) :
+if isinstance ( value , toga . Widget ) :
+if len ( self . flat_conditions ) == 1 :
+elif delimiter in b :
+if self . width not in [ 100 , 50 , 33 , 25 ] :
+if idx != len ( self . input_dims [ 0 ] ) - 2 :
+elif status == MemcacheDeleteResponse . NOT_FOUND :
+if not scope_region . empty ( ) :
+if when_value is not None :
+if self . timeout is None :
+if continue_url :
+if name in existing
+if self . request . query :
+if tok . startswith ( marker ) :
+if self . select ( i ) :
+if "iflytek_yuyin" in profile :
+if account_info [ "user" ] [ "type" ] != "servicePrincipal" :
+if old_name in relproj :
+if a . ptr == b . ptr :
+elif ch is None :
+if stat . S_ISDIR ( st [ stat . ST_MODE ] ) :
+if isinstance ( widget_or_spacing , int ) :
+elif section == "refguide" :
+if SCons . Util . is_Sequence ( c ) :
+elif c == "-" and decode :
+if not Placeholder . check_resolved ( v . size ) :
+elif op_gprv ( op ) :
+if seq_file and os . path . exists ( seq_file ) :
+if module . endswith ( self . default_indicator ) :
+if "metadata" in updates :
+if actual_tags :
+if not hasattr ( wsgi_errors , method ) :
+if m . start ( 1 ) <= cursor_offset and m . end ( 1 ) >= cursor_offset :
+if len ( sizes ) > 4 :
+if len ( items ) > 1 :
+if tag . text is None :
+if shared . config . has_section ( address ) :
+if "momentum" in self . args :
+if "errors" in new_kwargs :
+if self . _THISFORM . FORM_NAME == self . _FORM_VISIT_LIST [ - 1 ] :
+elif current_word and self . char_begins_new_word ( current_word , char ) :
+if "results" in results :
+if inserted :
+if "/" in spec [ "key" ] :
+if index . column ( ) == Column . album :
+elif "Hello0" in url and "1.2.1" in url and "v1" in url :
+if hasattr ( model , "_create_content_base" ) :
+if isinstance ( widget , RulesWidget ) :
+if isinstance ( underlying_exception , urllib3 . exceptions . MaxRetryError ) :
+if self . node_ids :
+if used_height > scroll_height :
+if key . endswith ( self . cookie_suffix ) :
+if isinstance ( state1_vs , list ) :
+if self . _mtime is None or mtime > self . _mtime :
+if i + 1 != len ( self . name ) :
+if dst . is_id ( "IRDst" ) :
+if base_name :
+elif m == - 1 :
+if reset == 0 :
+if k . endswith ( "*" ) :
+if args . half :
+if txid not in self . __transactions :
+if os . path . isdir ( d ) and not os . path . exists ( os . path . join ( d , PUBLISH_FLAGFILE ) ) :
+if f [ 0 ] :
+if c1 != c2 :
+if grandchild . tagName != "File" :
+elif ch == "\t" :
+if author_id == self . a1 . pk :
+if stored_session :
+if len ( desc ) > MAX_LINE_LENGTH :
+if handler is not None :
+if relativedelta . now ( ) < cls . optional_period_type_map :
+if self . _decide_whether_to_process ( compare_id , redo , compares_done ) :
+if not right . isdigit ( ) :
+if s . consume_re ( _newline_esc_re ) :
+if code == "550" :
+if not os . path . isabs ( resource_store [ "base_directory" ] ) :
+if not isinstance ( cur , dict ) :
+if is_dev_build :
+if "-" in number :
+if keys not in output . keys ( ) :
+if self . select ( i ) :
+if function . contract_type == contract . contract_type :
+if self . layers is None :
+if referreddefinition is None :
+if self . _current_player :
+if self . _THISFORM . FORM_NAME == self . _FORM_VISIT_LIST [ - 1 ] :
+if issubclass ( field . type , ( Expression , ExpressionList ) ) :
+if field . index is None :
+if idents is not None :
+if node not in lst :
+if nsapp == nsapp :
+if self . positive :
+elif remainder . startswith ( ":" ) :
+if ignore_missing_dependency :
+if type ( s ) is datetime :
+if reward_bound > episode_kept :
+if six . PY2 :
+if not os . path . exists ( "/sys/block/%s/pid" % os . path . basename ( device ) ) :
+if k not in keys :
+if isinstance ( fstyle , basestring ) :
+if operation == "insert" :
+if "|" in key :
+if not execution_plan . has_step ( step_key ) :
+if sort is None or isinstance ( option_value , sort ) :
+if self [ 0 ] . token_type == "cfws" or self [ 0 ] [ 0 ] . token_type == "cfws" :
+if isinstance ( filename_data , list ) :
+if DEBUG :
+if len ( client [ "id" ] ) > 32 :
+if time . time ( ) - last_updated > 10.0 :
+if tree_entry . type == "tree" :
+if "exp" in conf [ "properties" ] [ "attributes" ] :
+if tag == "style" :
+if item . dictionary is None :
+if root . right :
+if self . _recursive :
+if np . isscalar ( a1 ) :
+if Gaffer . NodeAlgo . hasUserDefault ( plug ) :
+if version is not None :
+if isinstance ( value , alias_flag_value ) :
+if hasattr ( self , "_context" ) :
+if hasattr ( sys , "setswitchinterval" ) :
+elif name . lower ( ) in self . intmap :
+if count == len_gadgets :
+if ident is not None :
+elif field . _name in settings :
+if name != "__init__" :
+if b1 != b2 :
+if age < self . ttl :
+if self . is_ignored_uri ( hyperlink . uri ) :
+if hasattr ( subscriber , "_pyroRelease" ) :
+if ann_obj . _read_only :
+if p not in yielded :
+if self . is_floor :
+if geometry [ 0 ] > 180 or geometry [ 0 ] < - 180 :
+if os . path . exists ( abspath ) :
+if not isinstance ( l , str ) or not len ( l ) :
+if d == "indcat" :
+if model_spec is not None and model_spec . HasField ( "padding_options" ) :
+if self . expr . resultsName :
+if self . daemon . _handshake ( self . csock ) :
+elif su . isFirst ( innerTarget ) :
+if len ( set ( color_data_types ) ) > 1 :
+if children_part :
+if packed :
+if recursive and os . path . isdir ( subp ) :
+if not self . is_running :
+if data :
+if k
+if self . scroll_up_rect ( ) . collidepoint ( p ) :
+if self . _prompt is None :
+if integration . check_connection ( ) :
+if e_idx == 3 :
+if not isinstance ( data , dict ) :
+if name == "uni0402" :
+if self . batch_transfer_handler is not None :
+if not event . get_place_handle ( ) :
+if m < 1 :
+if next_index > 100 :
+if "DefaultValue" in spec and spec [ "DefaultValue" ] :
+elif self . action_input . selected_index == 1 :
+if len ( l ) == 1 and isinstance ( l [ 0 ] , ( six . string_types , int ) ) :
+if is_ipv6 :
+if self . state == "visual" :
+if status != 200 :
+if asset . pattern :
+if f != s :
+if retina_path in app . env . images :
+if len ( line ) == 0 :
+if len ( imgs ) < 1 :
+if ctg [ 0 ] == "L" and unicodedata . name ( c ) . find ( "LATIN" ) == - 1 :
+if path [ : 1 ] == "/" and path [ 2 : 3 ] == ":" :
+elif t == "jaconv" :
+if d_failed == 0 :
+if kl < 0.5 * self . kl_target :
+if f :
+if self . resource_type :
+if block [ "cidrBlock" ] == "0.0.0.0/0" :
+if f . endswith ( ".pyc" ) :
+if completed_number == total_number :
+if line . startswith ( ( "#" , "@" , " " , ")" ) ) :
+if hasattr ( self . _dataloader . sampler , "set_epoch" ) :
+if isinstance ( dt , dgl . DGLGraph ) :
+if callable ( k ) :
+if binary :
+if field not in structure :
+if isaext == "" :
+if test_session is None :
+if self . bc_api_key != self . bc_api_key :
+if hasattr ( self . res2 , "Fp" ) :
+elif type ( e . value ) is not list :
+if self . watcher :
+if not _tzinfos . has_key ( inf ) :
+if _file . name not in skip_files :
+if chunk :
+if "elements" in element :
+if key not in a :
+if self . match ( target ) :
+if link :
+elif pos == "E" :
+if os . path . isdir ( path ) :
+if len ( e0 . shared_vert ) > 1 and e1 . shared_vert :
+if not ( self . _config . SCAN_ALL or str ( task . p_comm ) == "bash" ) :
+if len ( aList ) > 0 :
+if " (pofilter) " in note :
+if stat . S_ISDIR ( attr [ "st_mode" ] ) :
+if url . url . startswith ( explore_url ) :
+if hasattr ( t , "x" ) :
+if "organization_slug" in kwargs :
+if dump is not None :
+if precision :
+if self . expr2 is None :
+if client . resource_groups . check_existence ( namespace . cluster_resource_group ) :
+if left == 0 and right in allowed_chars :
+if x_len != x_len :
+elif node . tag_type == CLOSE_TAG :
+elif issubclass ( v , Point ) and v . Attributes . dim is None :
+if name in [ "cookie" , "circuit" , "upstream" , "downstream" , "stream" ] :
+if fullpath [ - 1 ] in ( "/" , "\\" ) :
+if match is None :
+if index < hist_len :
+if token . kind == "lt" :
+if k . isupper ( ) :
+if ref in self . _editableChildren :
+elif type_str [ 0 ] == "o" :
+if tag . getNamespace ( ) == NS_XMPP_STREAMS :
+if name not in self . DEFAULT_SETTINGS :
+if check is None or isinstance ( check , basestring ) :
+if isinstance ( v , list ) :
+elif "Hello0" in url and "1.2.1" in url and "v1" in url :
+if client_done :
+if tld in hostnames :
+if not sChar :
+if line :
+if key in statement :
+if self . enc_ :
+if event_type is None :
+if "@" in value :
+if self . __Token :
+if m :
+if class_names :
+if isinstance ( child , pytree . Leaf ) and child . value == "*" :
+if target_type is None :
+if token == "op" and token == "id" :
+if cls . CONFIG_PATH :
+elif size <= 6 :
+if item . endswith ( "/" ) :
+if content :
+if len ( batch ) == 0 :
+if d2 in document :
+if fields == None or not len ( fields ) == 2 or fields [ 0 ] [ 0 : 1 ] != b":" :
+if self . symbolic :
+if force :
+if genename_element . attrib [ "type" ] == "primary" :
+elif line . startswith ( "Description: " ) :
+if self . _exception is None :
+if not dbci :
+if "\n" in text :
+if msg . get_attr ( "IFLA_IFNAME" ) == "test1984" :
+if asname in self . supported_features :
+if _PYPI is not None :
+if entry and entry [ "name" ] . lower ( ) == self . qualify ( name , domain ) . lower ( ) :
+if ( y & mask ) != 0 :
+if flag :
+if self . _scan_error_cache is None :
+if "_cls" in self . _mongo_query :
+if self . HasCloseButton ( ) :
+if e . errno == errno . EEXIST :
+if padsize > 0 :
+if not fn . endswith ( ".yaml" ) :
+if visible :
+if self . is_computed ( ) :
+if key == index [ 0 ] :
+if scheme in ACCEPTABLE_URI_SCHEMES :
+if self . options . compression_threshold :
+if re . match ( r"^(\d+)$" , x ) :
+if sys . version > "3" :
+if stmt == lines [ lidx ] :
+if name . split ( "." ) [ - 1 ] == "weight" and "layer_norm" not in name :
+if namespace . name is None :
+if document_id in self . _documents :
+if numeric :
+if i == 0 :
+if not config :
+if cap :
+elif s . startswith ( "Proc-Type" ) and "ENCRYPTED" in s :
+if created :
+if driver :
+if code == docname :
+elif is_iterable ( value ) :
+if value is not None :
+if self . _process . poll ( ) is None :
+if resultset [ "result" ] :
+elif min != - 1 and spaces < min :
+if "text" in data :
+if tag == "layers" :
+if not chunk :
+if not dep_cnts :
+if type ( e ) is Argument or type ( e ) is Option and e . argcount == 0 :
+if filter is None :
+if b1 == b2 :
+if not father_handle :
+if 64 < n < 97 :
+if composite_file . optional :
+if isinstance ( v , Config ) :
+if i not in securitygroups :
+if prepare :
+if "-" in rowid :
+if ( w , pos ) in self . composite_dict :
+if remove and add :
+if size is not None :
+if "reverse_dns" not in body :
+if self . cur_volume in self . total_volumes :
+if self . wdaymask [ i ] == self . rrule . _wkst :
+if wait :
+if len ( x ) > len ( y ) :
+if forum . topic_set :
+elif isinstance ( node , addnodes . start_of_file ) :
+if machine not in self . selected_machines :
+elif value not in ( False , None ) :
+if level and ( not elem . tail or not elem . tail . strip ( ) ) :
+if e . response [ "Error" ] [ "Code" ] == "IncorrectInstanceState" :
+if fish :
+if lw == 0 :
+if value == { "$type" : "timestamp" } :
+if not data :
+if isinstance ( item , ( ItemProcessor , dict ) ) :
+if fields_key in node_specific_config :
+if comment is not None :
+elif case ( 3 , 4 ) :
+elif isinstance ( value , datetime . time ) :
+if "psycopg2" in os . environ :
+if timeout >= 0 :
+if plugin is not None :
+if version_mapping [ "number" ] > self . server_information [ "server_version" ] :
+if isinstance ( value , ( int , float ) ) :
+if "s" in prefix and self . vm . PY2 :
+if field . id_decode :
+if n > 7 :
+if nbChars [ 0 ] is not None :
+if duration < 0.1 :
+if not part :
+if Driver . needsQuoting ( val , True ) :
+if level is not None :
+if p . grad is None :
+if lupa . lua_type ( value ) == "table" :
+if self . nargs == 1 :
+if j != 0 :
+if key in analyzer . attr_docs :
+if ( x & mask ) != 0 :
+if i == 100 :
+if self . output_files :
+if task . is_run :
+if breq :
+elif isinstance ( ns , ( list , tuple , set ) ) :
+if symbol_id in _id_to_symbol :
+if mod_type == imp . PY_SOURCE :
+if findall :
+if process_space :
+elif c == "\\" and s [ i + 1 ] == "$" :
+if os . path . exists ( src ) :
+if f not in formats :
+if os . path . exists ( "file_sources.json" ) :
+if len ( x ) > len ( y ) :
+if newdata :
+if len ( activities [ "data" ] ) < 300 :
+if self . att_name not in instance . _obj_cache :
+if playlist :
+if name . startswith ( "refs/heads/" ) :
+if not x :
+if s . startswith ( "\n" ) :
+if kwargs . get ( "in_place" , False ) :
+elif act [ "component" ] [ "code" ] in MANUAL_INTERVENTION_COMP_CODES :
+if user and user . banned :
+if isinstance ( self . _definition , dict ) :
+if hasattr ( learner , "inference_cache_" ) :
+if all ( isinstance ( expr , basestring ) for expr in exprs ) :
+if back :
+if ownerid in self . _storage :
+if not rest :
+if column . name in [ "keypoints" , "bounding_boxes" , "polygons" , "line_strings" ] :
+if s in self . NIM_POINTER_MAP :
+if self . match_function ( file ) :
+if USE_DEBUG :
+if attrname . startswith ( "__" ) :
+if isinstance ( auxiliary_head , list ) :
+if param . type :
+if obj :
+if subtitle_url :
+if ignore_first_level :
+if not os . path . exists ( curr_path ) :
+elif "Permission denied" in getUnicode ( ex ) :
+if isinstance ( part , Element ) :
+elif default . lower ( ) == "false" :
+if doAST :
+if idx :
+if dialog . run ( ) != Gtk . ResponseType . YES :
+if place_title == place_name :
+if isinstance ( constraint_data , LinearCanonicalRepn ) :
+if i in data :
+if b"PYTHONCASEOK" not in _bootstrap . _os . environ :
+if self . field_spec_ is None :
+if rt . reduced_QMARK_ ( init ) :
+if text . startswith ( event . data . lower ( ) ) :
+if getuid ( ) == 0 :
+if module_name in dependencies :
+if self . encryptor :
+if self . predicate ( subobj , context ) :
+if group_ids . intersection ( user_groups ) :
+if field :
+if not mother_handle :
+if isinstance ( m , nn . BatchNorm3d ) :
+if step_num < 20000 :
+elif is_small_integer ( token ) :
+if restr == { "essential" : True } :
+if len ( self . _filters ) != filter_nb :
+if path . isfile ( config_path ) :
+if "." in value :
+if flag :
+if hints_length > 0 :
+if self . tags and self . _tags_match ( machine . tags , self . tags ) :
+if comp . id in comp_ids :
+elif "error" in line :
+if not os . path . exists ( keyfile ) :
+elif self . op == "/" :
+if - delta < expr . get_float_value ( ) < delta :
+if file_sources_as_dict is not None :
+if tag . sort :
+if key not in self . options :
+if stride > output_stride :
+elif is_iterable ( value ) :
+if i == 0 :
+if hasattr ( child , "__dict__" ) :
+if self . _semlock . _is_mine ( ) :
+elif scroll_if_editing :
+if not isinstance ( dep . repo , WarehouseBaseRepo ) :
+if name [ : 1 ] == "_" :
+if attr == "choices" :
+if x . rank != 0 :
+if nursery_children :
+if ret_code == 0 :
+elif fid == 2 :
+if len ( V ) != d - R . dim ( ) or ( R + V ) . dim ( ) != d :
+if isinstance ( value , list ) :
+if received >= 100 :
+if provider . get_access_key ( ) is None or provider . get_secret_key ( ) is None :
+elif a == b :
+if weight == 0 :
+if val > 0 :
+if delta < 0 :
+if evname == "version" :
+if raw_input ( ) . lower ( ) == "y" :
+elif requested_namespace [ 0 ] not in IGNORE_DBS :
+if saved_exception :
+if target is None and subtarget is None :
+if reply == "!done" :
+if len ( self . _remaining_block ) == 0 :
+if globally :
+if i == j :
+if curr_memory - prev_memory > curr_memory :
+if fname not in self . _flags :
+if interface_version == _base_url :
+if not text . startswith ( "gtk-" ) :
+if os . path . islink ( dirpath ) :
+if lang_data [ 0 ] :
+if not self . layout . itemAt ( row , col ) :
+if isinstance ( prev_ , sql . TokenList ) :
+if read_len < len ( var ) :
+if not retry :
+if max_per_line and word not in lines :
+if matched :
+if len ( line ) > size :
+if match is None :
+elif os . path . isdir ( file ) :
+if self . fail :
+if line . startswith ( "#include" ) or line . startswith ( "%include" ) :
+if name is not None :
+if self . _edgepaths :
+if len ( data ) == 0 :
+if self . embed_tokens . weight is not None :
+if src :
+if hasattr ( x , "device_discovered" ) :
+if "encoding" in kwargs :
+if self . _lock > 0 :
+if name . endswith ( ".sccprofile" ) :
+if not self . _eval_todo :
+if log_cmd . check ( f"docker logs for {self.path.k8s}" ) :
+if data_disjoined is None :
+if isinstance ( val , dict ) :
+if ctx_params :
+if self . request . is_ajax ( ) :
+if "<" in text :
+if isinstance ( v , dict ) and k != "headers" :
+if self . partial and isinstance ( self . parent , EventsMixin ) :
+if data == "" :
+if body :
+if has_decimal_places :
+if path_obj . has_suggestions ( ) :
+if key_data . get ( key ) :
+if not isinstance ( root_objs , Iterable ) :
+if len ( def_files ) == 1 :
+if not len ( image . get ( "caption" , "" ) ) <= 180 :
+if not isinstance ( target_type , list ) :
+if key not in value1 [ group ] :
+if k not in query :
+if handler . __self__ is self :
+if values [ - 1 ] == uri and name . startswith ( prefix ) :
+if self . scan_attr ( attr ) :
+if x is not None :
+if msg :
+if i > 0 :
+if isinstance ( self , CTypesGenericPrimitive ) :
+if "external_address" in c :
+if PY2 :
+if k == "server.socket_host" and v == "localhost" :
+if isinstance ( self [ i ] , str ) and self . _list [ i ] in filenames :
+if dep . attr :
+if "episode" in result :
+if not os . path . exists ( replica . error_file ) :
+if theChapter . positionIsInChapter ( p ) :
+if extension in file_extensions :
+if ( line [ idx : len ( comment ) + idx ] ) . lower ( ) == comment . lower ( ) :
+if cell [ "cell_type" ] == "code" :
+if "r" in self . _mode :
+if ":" in f_str :
+if tag in text :
+if name == "__pycache__" :
+if cred . credential_type :
+if clade . is_terminal ( ) :
+if source is None :
+if os . path . isfile ( path ) :
+if node_ . key == key :
+if not source_path . is_dir ( ) :
+if isinstance ( value , types . FunctionType ) and hasattr ( value , "unittest" ) :
+if layer is not None :
+if len ( self . _tail_data ) == self . _base_number :
+if answer != Gtk . ResponseType . NO :
+if isinstance ( records , list ) :
+if callable ( cleanup ) :
+if data_of_birth_string . count ( "/" ) != 1 :
+if lib == core :
+if period_since_last_check >= server_check_period :
+if var . startswith ( "call" ) :
+if parent_node . type == "Const" :
+if "requires" in data :
+if delete :
+if batch not in names :
+if self . split > 20 :
+if head is None :
+if not isinstance ( data , str ) :
+if os . path . exists ( "/etc/mysql/conf.d/my.cnf" ) :
+if src . exists ( ) :
+if y not in self . _buffer :
+if k in res :
+if dest_val == baseline_val :
+if isinstance ( data , str ) :
+elif field_name == "date_created" :
+if image . _masks :
+if getattr ( i , "__self__" , None ) != listener
+if code == _subprocess . WAIT_SIGINT :
+if frac > 1.0 :
+elif m == - 1 :
+if prototype == ( "attr" , [ "ident" ] ) :
+elif self . current_provider . kind == directory . Provider . PROVIDER_URL :
+if self . h . plugin_handle ( plugin ) :
+elif hasattr ( self , k ) :
+if s . identifier not in outputVariables :
+if isinstance ( getattr ( module , x , None ) , types . ModuleType ) :
+if isinstance ( r , bytes ) :
+if not source . can_shuffle ( ) :
+if self . column != - 1 :
+if linenum > 0 and line [ 0 ] not in "\t" :
+if self . index < self . length and isHexDigit ( self . source [ self . index ] ) :
+if table_size == 0 :
+if is_windows_drive :
+if self . mo :
+if explicit :
+if self . flags . f :
+if key in conf :
+elif cm . unraisable is not None :
+if not frame . f_code . co_filename :
+if tmp & 0x80 :
+if peer . last_good < cutoff :
+if self . display :
+if variables_name_written_in_proxy :
+if name not in found_names :
+if is_resource_action ( member ) :
+if moduleID == active :
+if c != "\r" :
+if self . _chat_ids :
+elif isinstance ( elem , np . ndarray ) :
+if "var" in mem and "source" in mem :
+if byte :
+if parameter_range_key == "scaling_type" :
+if hasattr ( feature_set , "features" ) :
+if any ( fnmatch ( name , pattern ) for pattern in basename_ignore ) :
+if os . path . isfile ( filename ) :
+if not d :
+if self . _net_none :
+if delta < 0 :
+if meth is None :
+if len ( items ) != 2 :
+if self . squeeze_dims [ i ] :
+if auto :
+if not data :
+elif isinstance ( arg , str ) :
+if element is None :
+if self . use_prop or self . get_prop_name ( ) :
+if indices_index == 0 and true_axis :
+if value . startswith ( prefix ) :
+if random_state :
+if module_identifier not in impls :
+if i in shapes :
+if k [ "c7n:match-type" ] == "credential" :
+if kw . arg == "script_mode" :
+if entity_ref in statuses_by_refs :
+if prefix :
+if att in common_attributes :
+if len ( msg ) > 1 :
+if not exists :
+if _lt is _NegationExpression or ( _lt in native_numeric_types and _l < 0 ) :
+if is_tuple :
+if "denied" in data [ "error" ] or "cancelled" in data [ "error" ] :
+elif char == "<" :
+if req . headers . get ( self . auth_header , None ) == auth_val :
+if os . path . exists ( sockname ) :
+if nurbs is None :
+if await self . notify ( "check_if_normal_room" , i [ 0 ] , - 1 ) :
+if ps_id not in ps_vars :
+if name not in f :
+if self . trace_n < self . trace_max_n :
+if ( not task_types or task [ "type" ] . lower ( ) in task_types )
+if vector :
+if result :
+if "hex" in line :
+if remainder :
+if lk . startswith ( "x-amz-" ) :
+elif message is None :
+if self . pythonexe :
+if not self . _displayed :
+if self . _binaryOperationBinders . ContainsKey ( op ) :
+if value is None :
+if request is None :
+if rline != eline :
+if isinstance ( m , nn . ConvTranspose2d ) :
+if k . startswith ( field_name + "__" ) :
+if not self . _cancelled and not self . _final and self . _previous_context_id :
+if level_ref < 0 :
+if node . _negated :
+if key . endswith ( "_id" ) :
+if tt == 0 :
+if i_type [ 0 : 3 ] == "cce" :
+if i == 0 :
+if key in ( "EPOCH" , "{^LN-BEG}EPOCH" , "^EPOCH" ) :
+if xx . ndim == 2 :
+if "." in pn :
+if c . editCommands . autojustify :
+if token . token_type == TOKEN_CHAR :
+if operation [ "type" ] == "crop" :
+if self . data [ "match" ] == "denied" :
+if model_class in MODEL_MAPPING . values ( ) :
+if self . vw . isValidPointer ( reg ) and self . vw . getLocation ( reg ) is None :
+if size <= 1 :
+if key in seen :
+if self . strict < 1 :
+if self . depends_on_entries :
+if self . stop_lat is None :
+if k in self . combinations :
+elif include_remainder :
+elif hasattr ( layout_object , "get_field_names" ) :
+if key in ( "EPOCH" , "{^LN-BEG}EPOCH" , "^EPOCH" ) :
+if self . isViewController ( object ) :
+if not isinstance ( i , int ) :
+if not os . access ( path , os . X_OK ) :
+if section in schemaparser . sections ( ) :
+if num_cpus > args . cpu_trainers :
+elif magic == MMapIndexedDataset . Index . _HDR_MAGIC [ : 8 ] :
+if item_key != "sourceVault" :
+if ins <= progress or ins >= len ( s ) :
+if ( path / fname ) . exists ( ) :
+if "error_list" in response_json :
+if self . _it is None :
+if found == - 1 :
+if result :
+elif st == 2 :
+if os . path . isdir ( itempath ) :
+if root == last_root :
+if g . match_word ( p . h , 0 , "@ignore" ) :
+if self . tree . openElements [ 1 ] . parent :
+if i == "" :
+if not self . _config . PHYSICAL_OFFSET :
+if len ( num_bits ) == 2 :
+if os . path . exists ( filename ) :
+if line . startswith ( searchfor )
+if win . Class ( ) != "ComboBox" or win . ref . Class ( ) != "ComboBox" :
+if end != last_end :
+if gzip :
+if escape :
+if name is None :
+if self . map [ row ] [ col ] == UNSEEN :
+if input_array is None :
+if season == scene_season :
+if os . path . islink ( path ) or os . path . isfile ( path ) :
+if result [ "jobComplete" ] :
+if self . invert_axes :
+if new_time :
+elif "." not in name :
+if reset == ACTIVE_LOW :
+if k not in negate :
+if wnd_name not in self . named_windows :
+elif permission_result == PermissionResult . PERMITTED :
+if isinstance ( value , datetime ) and isinstance ( limit , timedelta ) :
+if src == current_case . get ( "src" ) :
+if fun in [ "nms" , "softnms" ] :
+if action :
+if callable ( source ) :
+if self . skip_connections and x . size ( 1 ) == residual . size ( 1 ) :
+if token . startswith ( prefix ) and len ( token ) > 5 :
+elif isinstance ( s , collections . abc . Sequence ) and len ( s ) == 0 :
+if not batch :
+if self . opts . strict :
+if attname == table_description :
+if source != self . source . read ( ) :
+if not component :
+if k < len ( selected ) :
+if self . filename is not None :
+if auth :
+if s in path :
+if codepoint == 32 :
+if self . _signature_excluded ( self . signature ) :
+if cls . run_create_tables == "once" :
+if not os . path . isdir ( base ) :
+if follow_field :
+if _hook_data :
+if crop :
+elif line . startswith ( "FAIL:" ) and prev_line and prev_line . startswith ( "=" ) :
+if namespace in inverted_nsmap :
+elif isinstance ( value , basestring ) :
+if skipped :
+if not view . id ( ) in active_views :
+if line . startswith ( u ( "+" ) ) :
+elif delete_ALL_OLD :
+if ts . processed_reward is not None :
+if encoding :
+if not credentails :
+if request . session :
+elif case ( 3 , 4 ) :
+if self . _unfinished_tasks . _semlock . _is_zero ( ) :
+if pwd is None :
+if exe_data is not None :
+if isinstance ( vcs , dict ) :
+if self . request . method in ( "GET" , "HEAD" ) :
+if line . startswith ( b"OK" ) :
+if handle :
+if len ( input ) != 1 :
+if not isinstance ( self . axis , int ) :
+if ( first_char == 202 ) and ( 0x9F <= second_char <= 0xF1 ) :
+if msg :
+if key in valid_keys :
+if fit is None :
+if filter is None or filter [ row , col ] == UNSEEN :
+if eager is None :
+if count :
+if end_time is None :
+if key == index [ 0 ] :
+if sql_list :
+if stmt . var not in self . temporary_vars :
+if self . optimize > 0 :
+if reset == ACTIVE_HIGH :
+if a . _version != b . _version :
+if fnmatch . fnmatch ( match , item . strip ( "/" ) ) :
+if c == "\0" :
+if self . DATALEN != 0 :
+if stat . S_ISDIR ( attr [ "st_mode" ] ) :
+if suffix not in self . suffixes and os . path . isdir ( path ) :
+if isinstance ( value , _ModuleMarker ) :
+if not check_global_interrupt ( ) :
+if info [ "regex" ] . search ( "%s" % offset_or_timezone_abb ) :
+if os . path . exists ( path ) :
+if any ( x == process_name for x in match_strings ) :
+if ":" in authority :
+if BrowserContext . _BROWSER_REFCNT == 0 :
+if not tick . order_book_id_list or tick . order_book_id_list != order_book_id_list :
+if ss [ "branch" ] :
+if f :
+if w :
+if retval :
+if ticker_ticks . get ( tick [ "T" ] ) :
+elif isinstance ( v , str ) :
+if not tp or name in [ "default" , "null" ] :
+if vt . index == vertex_idx :
+if linkcount > 2 :
+if self . inputs . mask_file :
+if self . helper_text_mode == "persistent" :
+if isinstance ( item [ - 1 ] , dict ) :
+if arguments :
+if d . income_account :
+if nbChars [ 1 ] is not None :
+if name in self . _HIGH_LEVEL_SERVICE_FULL_NAMES :
+if p >= self . get_len ( ) :
+if error :
+if image_source :
+if parent is not None and parent . get_kind ( ) == "Class" :
+if u :
+if first_variant :
+if self . is_json ( ) :
+if self . bot . user . is_authenticated :
+if value . startswith ( prefix ) :
+if self [ 0 ] . token_type == "cfws" or self [ 0 ] [ 0 ] . token_type == "cfws" :
+elif volume_guid_path :
+if parsed_drawing :
+elif k is None :
+if callable ( _on_found ) :
+if PYTHON3 :
+if node_id in self . cached_nodes :
+if self . classifier . is_index_op ( tok ) :
+elif not is_training and self . _infer_helper is None :
+if self . _properties [ "ldset_name" ] not in ldsets :
+if abs ( z [ i ] ) > 2.0 :
+if isinstance ( inst , ( _Block , _Instantiator , Cosimulation ) ) :
+if len ( bucket ) == batch_size :
+if isinstance ( tensor . op , tvm . te . ComputeOp ) :
+if run_id in self . _run_id_dict :
+if self . _CheckMySQLConnection ( ) :
+if topic in topics :
+if "on_demand" in keywords :
+if r :
+if ref == message . message_id :
+if activeBtns :
+if config . resolver_timeout :
+if first . text :
+if locale [ : 2 ] == ( "en" ) and locale [ : 5 ] != "en_US" :
+if hasattr ( g . app . gui , "set_minibuffer_label" ) :
+elif su . isFirst ( innerTarget ) :
+if status . get ( "status" ) == "ENDED" :
+if isinstance ( text , ( CodeViewText , ShellText ) ) and text . is_python_text ( ) :
+if self . party_account and self . party_type in ( "Customer" , "Supplier" ) :
+if i == 0 :
+elif c == "\\" and s [ i + 1 ] == "$" :
+if r is None :
+if len ( items ) > 1 :
+if idle . is_set ( ) :
+if "key" in s :
+if k not in "id" and obj1 . get ( k ) :
+if user_favourite_event :
+if self . _signal_handlers :
+if self . verbose :
+if self . auth_manager . CheckPermissions ( username , router_id ) :
+if charset :
+if self . count == self . eipLen / 2 + 1 :
+if sfile . endswith ( suffix ) :
+elif a . type == "malware-sample" :
+if event . old is not None :
+if value is None :
+if len ( view . get_regions ( linter ) ) :
+if mva >= va + size :
+if isinstance ( p1 , ( list , tuple ) ) :
+elif isfile ( path ) and path . endswith ( ".csv" ) :
+if isinstance ( inst , ( _Block , _Instantiator , Cosimulation ) ) :
+if sys . version_info >= ( 3 , 0 ) :
+if profile != "default" :
+elif gold_spans [ gi ] . start < system_spans [ si ] . start :
+if SUPPORTED :
+if self . type & 0x80 :
+elif self . current_provider . kind == directory . Provider . PROVIDER_URL :
+elif typ in [ "strong" , "code" ] :
+if f . exception ( ) :
+if self . features . use_tz :
+if "=" in each :
+if isinstance ( value , basestring ) :
+if c not in tags :
+if i % boxes_per_row == 0 :
+if this_date > oldest_date :
+if p . returncode != 0 :
+if isinstance ( v , dict ) :
+if pass_widget :
+if parent_hp is not None :
+if self . server :
+if verbose :
+if k [ - 3 : ] == "_at" :
+if GN [ - 1 ] == "." :
+if value . startswith ( "/" ) and not "\n" in value and value not in dirvars :
+if not self . _COMMENT_WITH_TIMESTAMP_RE . match ( lines [ 0 ] ) :
+if name is None :
+if path in l2 :
+if os . path . exists ( fn ) :
+if patching . old is DEFAULT :
+if k == neighbors . ENABLED :
+if len ( v . keys ( ) ) == 1 :
+if handler_id in used_handlers :
+if self . tags and self . _tags_match ( machine . tags , self . tags ) :
+if self . add_target ( target ) :
+if md . name . endswith ( suffix ) and md . name != suffix :
+if i != curr :
+if len ( feature ) > 2 :
+if sys . version_info [ 2 ] >= 3 :
+if safe :
+elif type == "v" :
+if not exists ( folder ) :
+if node_type not in self . available_node_types :
+if isinstance ( val , cst . Subscript ) :
+if download == self . __current_download :
+if account . discriminator == "easaccount" :
+if tb :
+if self . label is not None :
+if rd :
+if formatstring == "w:xz" :
+if key in txn . _protected_keys :
+if tt == 10 :
+if x == 0 :
+if not os . path . exists ( full_path ) :
+if "init" not in item . keywords :
+if not isinstance ( x , ( int , type ( None ) ) ) :
+if field_name == left :
+if not attribute . blank :
+if strbuf :
+if namespace . by_subscription is not None :
+if labels_to_remove :
+if ex . status_code == 404 :
+if total_processed % 100 == 0 :
+if dt < self . timeout :
+if cls . _instance is None :
+if state not in ( Gst . State . PLAYING , Gst . State . PAUSED ) :
+if imdb_id :
+if response . status != 200 :
+if ds :
+if view . size ( ) > 6 and view . substr ( sublime . Region ( 0 , 6 ) ) . lower ( ) == "search" :
+if text_span in tok_answer_text :
+if tt == 10 :
+if item_key != "sourceVault" :
+if build_data . built ( dpath ) :
+if entry . style == "long" :
+if line . startswith ( '"""' ) :
+if e . module_depsolv_errors :
+elif size <= 6 :
+if not re . match ( r"^(\d{1,3}\.{4}$$" , start + "." ) or not re . match (
+if mod != 0 :
+if param . desc and "" . join ( param . desc ) . strip ( ) :
+if unit . is_translated ( ) :
+if self . script_running and self . script_running [ 1 ] == name :
+if "value" not in possible_dict :
+if visitmethod is not None :
+if found not in seen :
+if self . test_pt :
+if attribute :
+if md is None :
+if int ( decode . config . currentProfile ( ) ) > 1 :
+if code == obj :
+if token [ 0 ] in ".0123456789" :
+if INTERNAL_DISK_CONFIG in metadata :
+if val == "<bool>True" :
+if url in url_infos :
+if inspect . isfunction ( function ) :
+if hasattr ( socket , "SO_REUSEPORT" ) :
+if isinstance ( item , ParseResults ) :
+if tok == "\\" or ntok == "*" :
+if c2 :
+if dist >= 0 and ( min_dist < 0 or dist < min_dist ) :
+if empty_self or empty_other :
+if c_size >= size :
+if self . database is None :
+if name not in subst :
+if isinstance ( element , Container ) :
+if func_name . startswith ( "_" ) :
+if o . vars [ i ] :
+if isinstance ( v , dict ) and k != "headers" :
+elif isinstance ( inst , str ) :
+if quiet :
+if name not in self . image_name :
+if token . endswith ( suffix ) and len ( token ) >= 5 :
+if match :
+if isinstance ( script , Gaffer . ScriptNode ) :
+if event_field :
+if b [ "Name" ] != b [ "Logging" ] [ "TargetBucket" ] :
+if log_function :
+if k in ( "lccn" , "oclc" , "isbn" ) :
+if current_time - start_time > self . WAIT_INTERVAL :
+if os . path . isdir ( filename ) :
+if button == Qt . BackButton :
+elif isinstance ( m , nn . LayerNorm ) :
+if j . startswith ( "scalding-core-" ) :
+if not os . path . exists ( full_directory_path ) :
+if mod == "input" :
+elif item [ 3 ] :
+elif ex == 500 :
+if int_id < len ( self . _vocab_list ) :
+if not ask ( contest ) :
+if self . expr3 is None :
+if self . pendings and ( len ( self . pendings ) > self . bufmax ) :
+if self . _missing_values :
+if self . min_radius <= self . center . distance ( ( x , y ) ) <= self . max_radius :
+if "type" in genename_element . attrib :
+if isinstance ( c . getSymbol ( ) . getSymbolType ( ) , SymbolType . PieSliceSymbolType ) :
+if version :
+if part in ( "." , ".." ) :
+if tags is None :
+if self . compare_entries ( compare_entry , compare_base ) :
+if self . stream . readBytes ( addr , 2 ) != ">>" :
+if isinstance ( child , pytree . Leaf ) and child . value == "and" :
+if columns is None :
+if formatter is not None :
+if job_id :
+elif type ( self . choices ) not in ( types . TupleType , types . ListType ) :
+if os . access ( srcpath , os . X_OK ) :
+if x != int ( x ) :
+if size :
+if form . is_valid ( ) :
+if has_headers :
+if OpenStackVirtualMachine . command_works :
+if not success :
+elif r :
+if has_xml > 0 :
+if self . direction == "start" :
+if layer in layer_names :
+if byte in self . leadingBodyData :
+if comment :
+if policy . featurizer . max_history > 2 :
+if user_input is not None :
+if gallery [ "name" ] == DEFAULT_GALLERY :
+if filters . get ( "publish_year" ) :
+elif name == "covar_module.base_kernel.raw_lengthscale" :
+if input_shape . shape [ 0 ] == 3 :
+if targets :
+elif hasattr ( json_api_settings , setting ) :
+if attrname . startswith ( "__" ) :
+if dline [ "path" ] == f"{path}/{name}" :
+if os . path . exists ( file_path + result [ "filename" ] ) :
+if not self . header_rgx . match ( child . tag ) and child . tag not in [ "pre" , "code" ] :
+if is_all_match :
+if any ( c . key not in chunk_result for c in tiled_n . chunks ) :
+if o . disabled :
+if not self . check_token ( FlowEntryToken , FlowSequenceEndToken ) :
+elif key == "notification" :
+if n [ "port" ] not in lldp . keys ( ) :
+if name in current_env :
+if list ( config . keys ( ) ) == [ "$env" ] :
+if num_as * two_byte_as_size > 2 :
+if self . _element . text is not None :
+elif definition . name and definition . name . value == operation_name :
+elif vw . isValidPointer ( item ) :
+if "&" in cmd :
+if job_entry :
+if request_uri . startswith ( script_name ) :
+if "Document" in policy and "Statement" in policy [ "Document" ] :
+if tt == 0 :
+if human_readable :
+if bbox is None :
+elif k . stop is None :
+if self . predicate ( subobj , context ) :
+if self . model_portion == "whole_featurizer" :
+if self . interrupted ( ) :
+if next_reminder > now :
+if not exists ( folder ) :
+elif leaf == SymbolFalse :
+if new . is_ident ( ) :
+elif doctype . startswith ( "xhtml" ) :
+if ex_obj is not None :
+if not testv_compare ( data , operator , specimen ) :
+if self . thread :
+if size :
+if value and not isinstance ( value , int ) :
+if self . is_computed ( ) :
+if name in self . node_filters [ "exclude_nodes" ] :
+if file . endswith ( ".gwt.xml" ) :
+if not read :
+if s . a < s . b :
+if not isinstance ( rjson , dict ) :
+if p . cpr . op == idaapi . cot_call :
+if any ( x not in tag for x in special_feats ) :
+if wildcard_count == 1 and argument [ 0 ] . startswith ( "*" ) :
+if len ( entries ) > 1 :
+if hasattr ( libcrypto , "EVP_CIPHER_CTX_cleanup" ) :
+if tIdx == idx :
+if user is None :
+if self . backend_rpcserver :
+if menuentry . Add == True :
+if mod in self . disabled_modules :
+if r == "" :
+if child . h . startswith ( tag ) :
+if suffix . import_enabled ( ) is True :
+if part in ( "." , ".." ) :
+if isinstance ( fstyle , basestring ) :
+if key == "CI_KEEP_ALIVE" :
+if note_markdown ( note ) :
+if status != 200 :
+if f > 0 :
+if not ( 0 <= level_ref < len ( levels ) ) :
+if bool ( where ( v ) ) != complement :
+if sleep :
+if i % args . steps == 0 :
+if new_response :
+if option is not None :
+if unit . isheader ( ) :
+if row_id . table :
+if pull :
+if executed :
+elif type in self . __event_types_at_proxy :
+if not isinstance ( json . loads ( namespace . pull_secret ) , dict ) :
+elif type == "v" :
+if os . path . exists ( self . path ) :
+if not request :
+if part . block is None :
+if line . startswith ( u ( "+" ) ) :
+if API_CACHE is None :
+if printElemNumber :
+if supports_group ( x , nl ) :
+if not order_item . canceled :
+if key in self . tagged_blocks :
+if num_results == max_items :
+if ( opt . deprecation_by or opt . remove_by ) and getattr ( source , name , None ) :
+if self . server :
+if subscriber . is_listening ( ) :
+if len ( line ) > 1 :
+if a . ptr == b . ptr :
+elif type ( item ) in ( list , tuple , dict , set ) :
+if self . _current_param :
+if cls_key == search_key :
+if sibling . getFirstChild ( ) :
+if i > 0 :
+if fnmatch . fnmatch ( match , item . strip ( "/" ) ) :
+if line . startswith ( '"""' ) :
+if build_data . built ( dpath ) :
+if len ( col ) == 2 :
+if len ( subElem ) > 0 :
+if "dse" in data :
+if os . path . islink ( path ) or os . path . isfile ( path ) :
+if self . verbose :
+if self . _filename is not None :
+if extra_action_out_fn :
+if id ( fval ) not in visited :
+if dep . repo is None :
+if detyper is None :
+if self . _should_delete :
+if all ( c in string . printable for c in container ) and os . path . exists ( container ) :
+if self . previous_party and ( self . previous_party != row . party ) :
+if val is None :
+if param in facts [ role ] :
+if self . do_correlation :
+if not isinstance ( self . _access_modes , list ) :
+if isinstance ( data , InstrumentedList ) or isinstance ( data , list ) :
+if type ( result ) == list
+if self . dialog_widget . add_to_channel_checkbox . isChecked ( ) :
+if getattr ( self , var_name , None ) == self . default_config [ var_name ] :
+if key in kwarg :
+if self . drop_connect :
+if _distro_dir != config . usb_disk :
+if alias . name == "*" :
+if isinstance ( data , ( list , tuple ) ) :
+if status :
+if src_root :
+if not _is_text_data ( hparams_i [ "data_type" ] ) :
+elif isinstance ( v , list ) :
+if isinstance ( value , list ) :
+if os . path . isfile ( css_filename ) :
+if device . site != self . cluster . site :
+if disable_gc :
+if any ( isinstance ( e , And ) for e in self . exprs ) :
+if ( path / fname ) . exists ( ) :
+if glyph . contour [ i ] . segments [ j ] . type == "line" :
+if other . Parse ( self . message_class ) :
+elif os . path . isdir ( file ) :
+if strip :
+if value is None :
+if var . get ( u"t" ) . callprop ( u"isVariableDeclarator" , var . get ( u"parent" ) ) :
+if n . _child . isidentical ( expr ) :
+if enc is None :
+if converted is None :
+if idx != self . _curidx :
+if self . image_pointer :
+elif operator == "Min" :
+if postprocess :
+if idle . is_set ( ) :
+if len ( analyser . allocate_clusters ( 0.1 ) ) == 2 :
+if len ( buf ) :
+elif isinstance ( elt , str ) :
+if user . invited_as_admin :
+if line . startswith ( ">END" ) :
+if text [ - 1 ] not in "\n\x85\u2028\u2029" :
+if not os . environ . get ( "GALAXY_TEST_AMQP_INTERNAL_CONNECTION" ) :
+if render :
+if path in sub and not sub [ path ] . startswith ( "[git]" ) :
+if object_name == "Image" and ( feature . startswith ( C_FILE_NAME ) ) :
+if fname . endswith ( ".py" ) :
+if col and col . get_title ( ) == _ ( "Active" ) :
+if size == 0 :
+if match :
+if getattr ( t , "__origin__" , "" ) is Union :
+if charset :
+if abs_path :
+if not isinstance ( val , FeatStruct ) :
+if isinstance ( s , ( tree . Scope , tree . Flow ) ) :
+if not self . _send_confirm :
+if extracted is not None :
+if stat . S_ISDIR ( n . mode ) :
+if cross_node in self . path :
+if str_in [ pos ] == start_tag :
+if self . _data [ 0 ] is None :
+if e . get_dbus_name ( ) == DBUS_UNKNOWN_METHOD :
+if name in self . when_statements :
+if i % 2 == 0 :
+if target_path_attr :
+if user :
+if out . endswith ( "1" ) :
+if variant == "tracks" :
+if "point" not in node . attr [ "shape" ] :
+if msg . visibility == message_type . visibility
+if reg . reg in ( "PC" , "R15" ) :
+if "movie_hdr" in field :
+if local_version > remote_version :
+if idx >= len ( selections ) :
+if product_yaml_path :
+elif len ( self . flat_conditions ) == 0 :
+if "|" not in scene_exception :
+if idx >= len ( selections ) :
+if ":" not in uri_like :
+if i . objectName ( ) == "MainWindow" :
+if key not in account_dict [ "entities" ] [ "media_player" ] :
+if isinstance ( val , bool ) :
+if flags != 0 :
+if dep_cnt :
+if item . endswith ( "/" ) :
+if schema . IsNumeric ( col ) :
+if other . start == region . start and other . end == region . end :
+if scalar :
+if tt == 0 :
+if i > 0 :
+if x in x_value :
+elif merge_if_exists :
+if unknown :
+if not ua :
+if i not in direct_upstreams :
+if letter . isalnum ( ) or letter == " " :
+if spec . loader is None :
+if self . any_match :
+if hasattr ( sys , "setswitchinterval" ) :
+if quota_holder not in self . _settlement_manager_id :
+elif previous_echoed . endswith ( "foo3" ) :
+if snapshot . cluster_identifier == cluster_identifier :
+if hasattr ( model , "edit_handler" ) :
+if exit_code < 0 :
+if l [ 0 ] == "Filename" :
+if self . config [ "nocopy" ] :
+if n == 0 :
+if self . raisecode is not None :
+if len ( thisDynamic ) > 1 :
+if name in config :
+if dictionary . path in paths :
+if k . lower ( ) == ikey :
+if len ( items ) == target :
+if seq_file and os . path . exists ( seq_file ) :
+if name in self . LST_NAMES :
+elif empty_directory_exists :
+if conf_file :
+if self . checks_passed >= self . max_checks :
+if isinstance ( x , ast . AST ) :
+if warning_header_value :
+if self . use_parallel_executor and not self . use_double_buffer :
+if not self . _finalized :
+if hasattr ( e , "code" ) :
+if not data :
+if isinstance ( job . trigger , IntervalTrigger ) :
+if tol > p ** 2 :
+elif line . endswith ( "\r" ) :
+if "sale" in res and "id" in res [ "sale" ] :
+if log . getEffectiveLevel ( ) <= logging . DEBUG :
+if description is None :
+if nmt :
+elif magic == MMapIndexedDataset . Index . _HDR_MAGIC [ : 8 ] :
+if not self . _queue or self . _getters :
+if d . block_date not in dates :
+if watch_dir is None :
+if skip >= limit :
+if ( ( test_case . name , test_case . io ) in solver ) and ( test_case . available ) :
+if normpath in keywords :
+if module not in controllerslist :
+if item [ "subscription" ] != "none" :
+elif isinstance ( sym , ast . ClassDef ) :
+if len ( [ v for v in non_version_attrs if v is not None ] ) != 0 :
+if "spirit" in root :
+if isinstance ( s , ( tree . Scope , tree . Flow ) ) :
+if self . args . peeklock :
+if isinstance ( data , np . ndarray ) :
+if code == "550" :
+if match :
+if size == 0 :
+if isinstance ( c , Gtk . Container ) :
+if flags . bit . type == VIDEO_FRAME_TYPE_AVC_DATA :
+if len ( data ) > maxlen - len ( ellipses ) :
+if self . unit_system != new_unit_system :
+if visitor . needs_fix ( ) :
+if created :
+if group_matched :
+if not peek ( parser , TokenKind . NAME ) :
+elif leaf == SymbolFalse :
+if address_name :
+if isinstance ( v , dict ) and k != "headers" :
+if isinstance ( c . op , Fuse ) :
+if key in self . mapped_classes :
+if nw_id_ == nw_id :
+if not len ( line . strip ( ) ) :
+if startswith is not None and not key . startswith ( startswith ) :
+if tf . keras . backend . is_sparse ( val ) :
+if self . mgr . is_multilang ( lang ) :
+if settings . FEINCMS_CMS_404_PAGE :
+if self . dropout [ i ] != step :
+if arg [ "src_path" ] == arg [ "dest_path" ] :
+if not at . precheck ( fileName , root ) :
+if line . startswith ( "data:" ) :
+if len ( valuelist ) == 0 :
+if any ( isinstance ( e , And ) for e in self . exprs ) :
+if form . is_valid ( ) :
+if "user" in post_json :
+if mark_as_delete :
+if self . numeric_tester ( "nl_langinfo" , nl_langinfo ( li ) , lc , loc ) :
+if issubclass ( handler . __class__ , logging . FileHandler ) :
+if marker . axes is not None :
+if key in MODIFIERS :
+elif self . operator in { "lon" , "longitude" } :
+if self . service_id :
+if isawaitable ( _response ) :
+if self . _should_delete :
+if key . startswith ( "tpot." ) :
+if os . path . isfile ( f_path ) :
+if self . logFile :
+if ( data [ - 1 ] ) == "\n" :
+if self . queue_com . state == RUNNING and self . stop_task ( ) :
+if self . arguments . varname :
+if position < editor . document ( ) . characterCount ( ) :
+if sent == "" :
+if self . description is not None :
+if os . path . isdir ( path ) :
+if ( dest_dir / "pytorch_model.bin" ) . exists ( ) :
+elif len ( col ) == 3 :
+if rs == 0 :
+if k in self . params :
+if shielded and state :
+if self . is_ws ( aList [ i ] ) :
+if ( entry . keys ( ) & input_features ) != input_features :
+if hasattr ( l , "_reset" ) and callable ( l . _reset ) :
+if items is None :
+if not unclosed_end and text [ end ] == "<" :
+if value_ is None :
+if len ( args ) >= 7 and "content_type" in args [ 6 ] :
+if self . _sample_env_ids :
+if isinstance ( item , dict ) :
+if same_latitude and same_longitude :
+if a :
+if all ( classes [ k ] >= num_samples for k in classes ) :
+if tool :
+if not self . run_module ( cmd , args ) :
+if v == u :
+if not self [ "fileName" ] . getValue ( ) or self [ "in" ] . source ( ) == self [ "in" ] :
+if src [ : , : , 3 ] . any ( ) :
+if not perm . has_object_permission ( request , self , obj ) :
+if op . attr_key == "storage_scope" :
+if self . _unfinished_tasks . _semlock . _is_zero ( ) :
+if self . request . headers . get ( "Content-Type" , "" ) . startswith ( "application/json" ) :
+if not _userfullname :
+if rank == self . rank :
+if x is not None :
+if isinstance ( reason . exception , AssertionError ) :
+if other_option in self . ssl_options :
+if localized == "" :
+if i == "cookie" :
+elif isinstance ( value , dict ) :
+if example_len > max_len :
+if "file" in kw :
+if line . startswith ( ( "#" , "@" , " " , ")" ) ) :
+if readInput ( message , default = "Y" , boolean = True ) :
+if arch is not None :
+elif c == "}" :
+if f not in item :
+if isinstance ( m , nn . ConvTranspose2d ) :
+if a . itemsize == 1 :
+if variable . is_block ( ) :
+if self . scope_ is None :
+if k in AttributeList . attrs :
+if "objURL" in item :
+elif instr . mnemonic . startswith ( "asr" ) :
+if target :
+if self . waiting_readers > 0 :
+if len ( subwords ) >= delimiter_len and subwords [ - delimiter_len : ] == delimiter :
+if exog . ndim == 1 :
+if self . extensions :
+if self . _node_prefix and not node . name . startswith ( self . _node_prefix ) :
+if type ( e ) is Argument or type ( e ) is Option and e . argcount :
+if pos != - 1 :
+if isinstance ( test , ast . Const ) :
+if fulldata :
+if x < 0 :
+if not plugin . instance . __doc__ :
+if attr == "default" :
+if new_scope is None :
+if prediction == ys [ i ] :
+if p :
+if ( payload , place ) not in kb . pageTemplates :
+if isinstance ( constraint_data , LinearCanonicalRepn ) :
+if f . unique :
+if plugin . isAncestorOf ( self . last_focused_widget ) :
+if consumer . is_stdout :
+if self . _recursive :
+if self . symbolic :
+if e . args [ 0 ] == "no such module: VirtualSpatialIndex" :
+if access_token is None :
+if type ( rad ) in [ list , tuple ] :
+if not cls . _lib_loaded :
+elif self . waiting_readers != 0 :
+if j == k :
+if response . text :
+if n < len ( buf ) :
+if value is not None :
+if isinstance ( expr_0 , int ) and isinstance ( expr_1 , int ) :
+if request_id in self . _request_id_to_instance :
+if self . _gzipped :
+if self . option ( "full-path" ) :
+if not hasattr ( c , "aggregators" ) :
+if isinstance ( value , list ) :
+if re_han . match ( blk ) :
+if params [ "ok" ] :
+if is_resource_action ( member ) :
+if compresslevel is not None :
+elif b"property" in line :
+if build_status == "built" :
+if attrname . startswith ( "__" ) :
+if sql . lower ( ) . find ( name . lower ( ) ) == - 1 :
+if child . nodeType == child . TEXT_NODE :
+if not service_data [ 0 ] . endswith ( ".service" ) or service_data [ 2 ] != "loaded" :
+elif re . search ( r"^\s*\/\/" , source ) :
+if patchid :
+if self . expr . resultsName :
+if old_obj is not None and issubclass ( obj , old_obj ) :
+if not key_buf :
+if block . xmin and block . ymin :
+if job is not None :
+if path == paths [ - 1 ] :
+if segleft :
+if hasattr ( m [ 1 ] , "event_callback" ) :
+if len ( self . _tail_data ) == self . _base_number :
+elif isinstance ( lo , basestring ) :
+if e . get_dbus_name ( ) == DBUS_UNKNOWN_METHOD :
+elif needs_string_cast :
+if verbosity < 1 :
+if isinstance ( value , StorageClass ) :
+if r == self . _zero :
+if end_inx >= 0 :
+elif isinstance ( elem , np . ndarray ) :
+if size == 1 :
+if retval :
+if res . get ( "provisionDate" , None ) :
+if any ( not isIn ( v , values ) for v in self . value ) :
+if len ( m ) == 1 :
+if v [ "ip" ] == "0.0.0.0" :
+if res :
+if not self . is_playback ( ) :
+if prefix :
+if i % 2 == 0 :
+if path . is_dir ( ) and path . exists ( ) :
+if view . line ( s . b ) . size ( ) > 0 :
+if not isinstance ( id , list ) :
+if token . token_type == "value" :
+if "forkserver" in self . config :
+if watched_event . type == EventType . CREATED :
+if fileno :
+if key in self . _targets
+if dry_run :
+if not isinstance ( tensors [ 0 ] , AutogradCrypTensor ) :
+if self . install_dir and os . path . exists ( self . install_dir ) :
+if isinstance ( source , model . Phrase ) :
+if not results :
+if length <= self . LENGTH_LIMIT_TINYBLOB :
+if length < 0 :
+if val is None :
+elif col == FOOD :
+if completion_routine :
+if replace_unk :
+if newline :
+elif os . path . sep in url :
+if sconsign_dir and not os . path . exists ( sconsign_dir ) :
+if name not in submodule_dict :
+if isinstance ( configuration . kwargs [ "value_set" ] , dict ) :
+if time . time ( ) - start > timeout :
+if not line :
+if line [ 0 ] == "#" :
+if not a . has_attr ( "pantsref" ) :
+if query . query_id is not None :
+elif not transparent :
+if self . cfg . ssl_options :
+if intersect_point_tri_2d ( pt , v0 , v1 , v2 ) :
+if alias . name == "*" :
+if not isinstance ( res , bytes ) :
+elif self . current_provider . kind == directory . Provider . PROVIDER_URL :
+if b . name == name :
+if axis is not None :
+if context :
+if self . latest :
+if tag_record not in image_record [ "image_detail" ] :
+if ( self . middleware . call_sync ( f"{ds[0]}.config" ) ) [ "enable" ] :
+if parsed is None :
+elif head_name != "System`Missing" :
+if not callable ( callback ) :
+if "scale" in results :
+if c . getYAxis ( ) == Y_AXIS :
+if doc :
+if b"num_points" in line :
+if run_pyflakes and run_pep8 :
+if module . endswith ( self . default_indicator ) :
+if next_chunk . base != - 1 :
+if skip_tables :
+if not os . path . exists ( fullName ) :
+if q :
+elif message . text == "hola" :
+if os . path . isfile ( full_fn ) :
+if is_last :
+if isinstance ( payload , LiveActionDB ) :
+if Y_metadata is None :
+if n is not ClassType :
+if i > 0 and isinstance ( operation , ( QubitStateVector , BasisState ) ) :
+if gas and value and salt :
+if self . stack :
+if r == 0 or w == 0 :
+if self . draggingFace >> 1 != 1 :
+if add :
+if Store . objects . filter ( translation_project__project = self . instance ) . count ( ) :
+if return_type is bytes :
+if callback :
+if self . _handle_holder . closed :
+if self . use_prop or self . get_prop_name ( ) :
+if is_inst_complete :
+if user_request [ "user_id" ] == user_response [ "user_id" ] :
+elif "." not in name :
+if self . expected_inner_md5 :
+if s . consume_re ( _newline_esc_re ) :
+if request . query_string :
+if not ( isinstance ( k , str ) or isinstance ( k , unicode ) ) :
+if self . is_computed ( ) :
+if resp :
+if ":" in line :
+if ha_tools_debug :
+if response is None :
+if since_time > last_date :
+if button :
+if self . concatenate :
+if task . state in [ "stopped" , "stopping" ] :
+if e . status_code == 404 :
+if script_files :
+if c :
+if len ( term ) == 2 or not len ( term ) :
+if modargs . remove :
+if "bucket" not in self . data :
+if m :
+if exists :
+if attr :
+if endpoint :
+if not socket . hide and isList ( socket . bl_idname ) :
+if _result :
+if isinstance ( config_result [ 0 ] , dict ) :
+if mod_name and name == mod_name . lower ( ) :
+if dr . confirm ( proc ) :
+if isinstance ( args [ 0 ] , cls ) :
+if A is not None :
+if isinstance ( value , dict ) :
+if length :
+if not Placeholder . check_resolved ( v . size ) :
+if col == SCREEN :
+if hasattr ( l , "_reset" ) and callable ( l . _reset ) :
+if x is None :
+if "torrent" in entry :
+if self . do_costes :
+if request :
+if pickle_time == 0 or pickle_time >= time ( ) :
+elif name == "EMAIL_ATTACHMENT" :
+elif mode == "add" :
+if name in el :
+if item in self . _expire_time and self . _expire_time [ item ] < datetime . now ( ) :
+elif isinstance ( ns , ( list , tuple , set ) ) :
+if time ( ) - self . last > 5 and self . qsize ( ) > 0 :
+if type ( patch ) == dict :
+if m . group ( 3 ) :
+elif not is_training and self . _infer_helper is None :
+if changeid < less_than :
+if name in cmdline . split ( " " , 1 ) [ 0 ] :
+if part is not query [ - 1 ] :
+if rx_i == b"1000" :
+if not self . connection_1c . is_active :
+if data [ "%s-%d-deleted" % ( prefix , i ) ] :
+if not self . _framerate :
+if next_iteration == 0 :
+if resp . match ( key [ : - 1 ] , val ) :
+if wait :
+if isinstance ( submodel , op_type ) :
+if self . episodes :
+if type ( v ) == unicode :
+if self . contour . filled_contours :
+if os . path . exists ( abs_path ) :
+if self . normalaction :
+elif wrapped :
+elif self . script_last and self . script_last [ 1 ] == name :
+if curses :
+if not os . path . exists ( configFilename ) :
+if delta < 0 :
+elif isinstance ( parent , pytest . Module ) :
+if ship :
+if trans . execute ( event_data ) :
+if limit is not None :
+if not self . _is_expression ( ) :
+if x . startswith ( home ) :
+if build_key :
+if not isinstance ( batches , ( list , tuple ) ) :
+if self . errors :
+if "false" in label :
+if is_column_dotted ( column ) :
+if not isinstance ( pattern , set ) :
+if hasattr ( module , "aliases" ) :
+if normalize :
+if self . args != get_sudo_refresh_command ( ) :
+if isinstance ( d , tuple ) and len ( d ) == 2 :
+if ( len ( value ) == 2 ) and ( value [ 0 ] <= value [ 1 ] ) :
+if os . path . isdir ( path ) :
+if len ( l ) != 2 :
+if item . nodeid . startswith ( "tests/infer" ) :
+elif name == "EMAIL_ATTACHMENT" :
+if isinstance ( x , int ) :
+if cluster_addr :
+if not line :
+if not sty . italic and fragment and not fragment . isspace ( ) :
+if children :
+if self . process . poll ( ) is not None or self . is_interrupted ( ) :
+elif payment . payload . decode ( "UTF-8" ) == "product B" :
+if max != - 1 and spaces > max :
+if ofs + b . uncompressed_size > pos :
+elif hunk_of_removals_only ( hunk ) :
+if value is not None :
+if token . name == "attr" :
+if self . buf_in or self . _poll_read ( 10 ) :
+if counter >= max_tries :
+if len ( batch_out ) == self . batch_size :
+if gscript . find_file ( temp_map , element = maptype ) [ "name" ] :
+if self . _has_stop_signal ( raw_inputs ) :
+elif child . tag in ( "w" , "c" ) :
+if field not in graphql_type . fields :
+if response is None :
+if get_setting ( "CREATE_MISSING_SWITCHES" ) :
+if entry . requires == requirements :
+if idx != len ( checks ) :
+elif event == EVENT_RETURN :
+if len ( maps ) > 0 and maps [ - 1 ] [ 0 ] + maps [ - 1 ] [ 1 ] == p << 12 :
+elif self . options . rotate_aes_key . lower ( ) == "false" :
+if not hasattr ( text , "_x" ) :
+if i == 0 :
+if itype != itype :
+if s . parentAbove is None :
+if "RevisionDate" in r :
+if not _is_import_err_msg ( err_str , module ) :
+if res :
+if coordinates :
+if sub . startswith ( "\\" ) :
+if hasattr ( o , "metadata_path" ) :
+if self . _shutdown :
+if selectedPath is not None :
+if arg . replace ( "-" , "" ) == "" and len ( arg ) >= 3 :
+if value != 1 :
+if e . errno == errno . EINTR :
+if version . lower ( ) == "rolling" :
+if status == "Healthy" and locked :
+if self . HasCloseButton ( ) :
+if not value :
+if exc_fmt is None :
+if extracted_items :
+if self . with_iqr :
+elif not self . word_boundary_char ( text [ right - 1 ] ) :
+elif timedeltapattern . match ( namespace . duplicate_detection_history_time_window ) :
+if sub == "\\" :
+if self . _config . SLENT :
+if self . fail_before_yield :
+if iTick not in cGridlines :
+if projects :
+if self . multiple and len ( set ( opts [ self . name ] ) ) > 1 :
+if m :
+if not os . path . exists ( script ) :
+if self . _flat_pcollection :
+if nx != ny and nz != nz :
+if remove :
+if self . unique_key_field == field [ "name" ] :
+if response :
+if idx == len ( os_widget . get_model ( ) ) - 1 :
+if substr in module :
+if len ( hexes ) != 16 :
+if cleaned_id . startswith ( "-" ) or cleaned_id . endswith ( "-" ) :
+if xc == 1 :
+if cap :
+if self . content_type :
+elif field_type == CustomProfileField . EXTERNAL_ACCOUNT :
+if self . file :
+if self . tot_bytes_received >= self . transfer_size :
+if line . startswith ( "#include" ) or line . startswith ( "%include" ) :
+elif scroll_if_editing :
+if not line . endswith ( "\n" ) :
+if cell . selected :
+if request . path . startswith ( sp ) :
+if tt == 18 :
+if index > max_nb :
+if len ( norm ) == 0 :
+elif self . _aggregate_rows :
+if domain :
+if item not in fast_deletes :
+if cookie_token :
+if client . debug :
+if row is None :
+if BRANCH_ALIAS_MARKER in git_branch_line :
+if linenum > 0 and line [ 0 ] not in "\t" :
+if ref . resolved :
+if dist ( currentPos , self . ends [ color ] ) == 1 :
+if selectedPath is not None :
+if num == bucket :
+if name == cur_test :
+elif self . op == "/" :
+if mime_type :
+if binary :
+if text :
+if context . pending ( ) :
+if port_state is PORT_STATE_FORWARD :
+if exc . errno != errno . EEXIST :
+if field_check ( ii , "attributes" ) :
+if round ( time . time ( ) ) - os . path . getmtime ( test_run ) > expiry_time :
+if title not in found :
+if not isinstance ( header , dict ) :
+if fields is None :
+if param . name :
+if source . endswith ( "gif" ) :
+if type ( submob ) == Sector :
+if follower_ident == "" :
+if value is not None :
+if a . len != b . len :
+if initialized_app is None :
+if self . compiled_query_ is None :
+if subevent :
+if length <= self . LENGTH_LIMIT_MEDIUMBLOB :
+if decompressed is None :
+if not os . path . exists ( path ) :
+if len ( event_shape ) == 1 :
+if not FLAGS . Ceph_monitors :
+if isinstance ( c . getSymbol ( ) . getSymbolType ( ) , SymbolType . PieSliceSymbolType ) :
+if prefix :
+if index > self . largest_index :
+if minval > self . C [ i ] [ j ] :
+if tool_dict . get ( "add_to_tool_panel" , True ) :
+if notify :
+if start >= self . plugin_args . end :
+if using_host :
+if lowest_wall is None :
+if include_details :
+if context :
+if A == B :
+if result == 0 :
+elif type ( targets ) != tuple :
+if role in facts :
+if dim_value :
+if typ == _key :
+if message == RESET :
+if not isinstance ( defaultMessageHandler , Gaffer . ProcessMessageHandler ) :
+if relativeto :
+if c == "+" and decode :
+elif line and not line . startswith ( "#" ) :
+elif previous_echoed . endswith ( "foo3" ) :
+elif status == MemcacheDeleteResponse . NOT_FOUND :
+elif isinstance ( plug , Gaffer . Color3fPlug ) :
+if codepoint == "0xd835" :
+if page . relations . aliases_norm is not None :
+if support . match_test ( test ) :
+if partition_id in partitions :
+if results :
+if operation == "insert" :
+if r == self . _zero :
+if value :
+if firstHeading :
+if parameter . startswith ( "platformName" ) :
+if v [ "FeatureType" ] == "val" :
+if operation_name is None :
+if modelNode :
+if node [ "type" ] == "sample" and not node [ "is_observed" ] :
+if not isinstance ( key , bytes ) :
+if not ctx . resilient_parsing :
+if set_value :
+if wipe or not self . isfile ( path ) :
+if not isinstance ( values , list ) :
+if is_resource_action ( member ) :
+if os . path . exists ( os . path . join ( path , ifconfig_cmd ) ) :
+if extension in HEADERS :
+if authed_user :
+if _new_login :
+if FIELD_STATE in response :
+if block :
+if os . path . isfile ( os . path . join ( path , self . index_file ) ) :
+if ext == ".py" or ext == "" and os . path . isdir ( os . path . join ( basedir , name ) ) :
+if match :
+if import_path != "pip" :
+elif self . __show_animation :
+if key [ "KeyType" ] == "RANGE" :
+if src == "command line" :
+elif tag == "New" and text :
+if run_pyflakes and run_pep8 :
+if len ( ret ) > width :
+if i == messages - 1 :
+if not chr ( self . cache [ offset + 3 - i ] ) . isalnum ( ) :
+if child . nodeType == child . TEXT_NODE :
+if text [ - 1 ] not in "\n\x85\u2028\u2029" :
+if isinstance ( arg , bytes ) :
+if data [ "type" ] not in ( "stock" , "data" , "image" ) :
+if match :
+elif v [ "type" ] == BMP_TERM_TYPE_REASON :
+if text [ end - 2 : end ] == " " :
+if win . Class ( ) != "ComboBox" or win . ref . Class ( ) != "ComboBox" :
+if msg . args [ 0 ] == 0 :
+if deprecate_info :
+elif val == 1 :
+if t . storage_form ( ) in l :
+if val == 0 :
+if not isinstance ( rgroup , findlib2 . ReplaceHitGroup ) :
+if resource not in resource_producer :
+if schedule_def . partition_set is not None
+if metric not in metrics :
+elif self . _aggregate_rows :
+if label_part not in effective_metrics :
+if out not in nic :
+if type ( result ) in ( ConvertingDict , ConvertingList , ConvertingTuple ) :
+if re . search ( "_test$|_test_$|_unittest_$|^test_|Tests$" , name ) :
+if c in self . leading_spaces :
+if self . wrapped is not None :
+if name . startswith ( expr ) :
+if pname == name :
+if not node . isdir :
+if i % 2 :
+if item > self . max_separation + vector [ - 1 ] :
+elif hasattr ( self . key , k ) :
+if sys . platform == "darwin" :
+if depth == 0 :
+if meter in [ "ap" , "map" , "confusion" ] :
+if is_lightning_optimizer ( optimizer ) :
+if wx . Platform == "__WXMSW__" :
+if len ( batches ) != 2 :
+if column . foreign_key :
+if t < l :
+if L > 0 :
+if text :
+if not rows :
+if self . root_logger :
+if self . srcdevs [ srcdev ] == 0 :
+if i >= self . tailoff ( ) :
+if sizes [ b ] [ p ] > 0 :
+elif y_pred_proba . shape [ 1 ] > 2 :
+if self . currentIndex + n > self . image . shape [ self . axes [ "t" ] ] :
+if ddof is not None :
+if six . PY2 :
+if type ( v ) in [ list , tuple ] :
+if arg . size == 0 :
+if char != compare_against [ i ] :
+if user :
+if hasattr ( self , "theme_cls" ) and not self . focus_color :
+if self . hosted_service_name is not None :
+if k . startswith ( "&" ) and k . endswith ( ";" ) :
+if paramType == "boolean" :
+if a < b :
+if statement . lstrip ( ) . upper ( ) . startswith ( "SELECT" ) :
+if self . ns . fail_tests and self . test_tests :
+if self . isRoomSame ( user . room ) :
+if input :
+elif hasattr ( layout_object , "get_field_names" ) :
+if isinstance ( kwargs . get ( "event_data" , { } ) . get ( key ) , str ) :
+if production [ "tokenname" ] :
+if self . repository :
+if isinstance ( self . _definition , dict ) :
+if not exists ( dirname ( pygments_dir ) ) :
+if string == self . conversion_fn :
+if proc . is_alive ( ) :
+if not c . accepts_epsilon :
+if self . completed_calls >= self . _resolve_at_msg_count :
+if os . path . isdir ( cpath ) :
+if resp :
+if end and line == end :
+if self . multiple and len ( set ( opts [ self . name ] ) ) > 1 :
+if isinstance ( self . active_mode , deluge . ui . console . modes . cmdline . CmdLine ) :
+if stat . S_ISDIR ( mode ) :
+if startswith is not None and not key . startswith ( startswith ) :
+elif line . endswith ( "\r" ) :
+if vaddr :
+if k == "shape" and v is not None :
+if doc . get ( "authors" ) :
+if gate is None :
+if self . loaded :
+if match [ "match_querystring" ] :
+if p < self . pool_size :
+if operation [ "type" ] == "crop" :
+if value is not None :
+if not scm_to_conandata :
+if table_set is None :
+if self . _entry_has_critical_rating ( entry ) :
+elif self . dtype in FILTER_DTYPES :
+if "color_message" in recordcopy . __dict__ :
+if enum is None :
+if current_type is not None :
+if start and start in line :
+elif section :
+if sys . version_info >= ( 3 , ) :
+if prop [ "computed" ] :
+if self . inplace :
+if first_byte == 0x0F and self . dflt_enabled :
+if escaped :
+if attrs is not None :
+if isinstance ( inputs [ 1 ] , int ) :
+elif args . sort_order in [ "desc" , "descending" ] :
+if value in addresses :
+if fuzz_payload is None :
+if isinstance ( result , str ) :
+if commit and not self . in_transaction ( ) :
+if definition . name and definition . name . value == operation_name :
+if self . is_ws ( aList [ i ] ) :
+elif isinstance ( arg , basestring ) :
+elif child . tag in ( "w" , "c" ) :
+if base . start . gross and base . stop . gross :
+if class_value in self . strip_classes :
+if silent_success :
+if target . basename in basename_seen :
+if api_version_str == "latest" :
+if len ( result ) == 1 :
+if asname :
+if not has_balanced_parantheses ( entity_text ) :
+if new_learn_rate >= learn_rate_minimums [ index ] :
+if cast is None :
+if re . match ( "[+-]" , str ( tokens [ e ] ) ) :
+if executable . check ( ) :
+if dataset and tarfile . is_tarfile ( dataset . file_name ) :
+if k . startswith ( "_" ) :
+if "_name" in t and t [ "_name" ] == n :
+if self . match ( "," ) :
+if config [ "writer" ] == "json" :
+if not len ( line . strip ( ) ) :
+if result is None :
+if dylib_name :
+if data_list [ 1 ] in forms . fields . EMPTY_VALUES :
+if self . _thread is None :
+if has_module :
+if c == os . sep :
+if revision :
+elif member [ 0 ] == "wildcards" :
+if contains :
+elif event . GetKeyCode ( ) == wx . WXK_RETURN :
+if hasattr ( module , "aliases" ) :
+if event is None :
+if torch . is_tensor ( value ) :
+if "validate" in sub [ "config" ] [ "algorithm" ] :
+if num == 0 :
+if field . offset is None :
+elif definition . name and definition . name . value == operation_name :
+if ability . active :
+if user_profile_id not in self . batch_start_by_recipient :
+if start_enabled :
+if op . stage == OperandStage . map :
+if os . path . exists ( init_path ) :
+if isinstance ( hdl , EngineLogHandler ) :
+if p < tol :
+if resolved is False :
+elif instr . mnemonic . startswith ( "asr" ) :
+if stop_on_first_trigger :
+if spec and spec . has_output ( ) :
+if not item_ref :
+if "error_name" in body :
+if line . startswith ( prefix ) :
+if ye == 0 :
+if idx == index :
+if fit . factorReload is None :
+elif isinstance ( m , nn . BatchNorm2d ) :
+elif ext == ".tar" :
+if not d . get ( "subject" ) :
+if key in seenDict :
+if len ( else_ ) == 1 and isinstance ( else_ [ 0 ] , If ) :
+if eyelink_ver is not None :
+if monad . bl_idname == "SverchGroupTreeType" :
+if dict [ pattern [ i ] ] != list_str [ i ] :
+elif "test" in tok and len ( tok ) == 1 :
+if rusage == 0 :
+if val == 0 :
+if self . quitting :
+elif button == - 1 :
+if self . cmd_path :
+if suppress_error :
+if self . use_cuda :
+elif node . binary in ( BINARY_UPDATE , BINARY_DOWNLOAD ) :
+if state is None :
+if None not in ( x , y ) :
+if name . endswith ( ".sccprofile" ) :
+if completed_process . stderr is not None :
+if k . lower ( ) == test_header . lower ( ) and v == test_value :
+if proto == pickle . HIGHEST_PROTOCOL :
+if not rows :
+if y < self . box [ 1 ] :
+if widget and isinstance ( widget , PackageSelectWidget ) :
+if not line :
+if time_now - record [ "update" ] > self . ttl :
+if fn == ".py" or fn == ".py" :
+if reference . program_counter >= len ( reference ) :
+if logconfig and os . path . exists ( logconfig ) :
+if start_char :
+if url :
+if line [ len ( comment ) : ] . lstrip ( ) . startswith ( comment ) :
+elif isinstance ( arg , str ) :
+if new_pos == - 1 :
+if participant is None or participant == self . simulator_config . broadcast_part :
+if len ( layer_data [ _type ] ) == 0 :
+if tag . internal :
+elif v [ 1 ] >= radius_result [ v [ 0 ] ] :
+if cred :
+if self . stale_timeout and self . is_stale ( ts ) :
+elif isinstance ( v , basestring ) :
+if pos :
+if fnmatch . fnmatch ( tgt , host ) :
+if attval . value_callback :
+if key not in current_config :
+if sys . argv [ 1 : ] :
+if mimetype not in self . allowed_text_types :
+if key == "CI_KEEP_ALIVE" :
+if stats [ "op" ] == "Read" :
+if settings . USE_TZ :
+if self . config [ "dataparallel" ] :
+if i >= min ( len ( scales ) , len ( vidxs ) // 2 ) :
+if factor not in factor_set :
+elif message [ "type" ] == "websocket.receive" :
+if option == str ( value ) :
+if src_plot is None or ( link . _requires_target and tgt_plot is None ) :
+if extension . directives :
+if os . path . exists ( srcdir ) and not os . path . exists ( destdir ) :
+elif "hoverURL" in item :
+if table is not None and not table . is_current_version ( table_version ) :
+if v [ "schema" ] [ "type" ] == "object" :
+if anonymous :
+if thisDynamic in dynamicStrToScalar :
+if p is None :
+if wstate != "normal" :
+if p . poll ( ) is None :
+if n . node == node :
+if this . is_glob :
+if valid_pkg :
+if name is None :
+if xlib . XFilterEvent ( e , e . xany . window ) :
+elif stage == "header" :
+if this . regex :
+if not any ( r . category in self . expected_warning for r in self ) :
+if v [ "ip" ] == "0.0.0.0" :
+if i == 5 and self . count < 4 :
+if response . startswith ( b"MMcS" ) :
+if skip_variables and rel_root . startswith ( "variables" ) :
+if i != j :
+elif member [ 0 ] == "wildcards" :
+if os . path . isfile ( path ) :
+if self . delete_model ( self . get_one ( pk ) ) :
+if test_predicate . do_include ( { "volume_guid" : val } ) :
+if checked :
+if self . fusefat . poll ( ) is not None :
+if processor not in processors :
+if converter [ "source" ] == "fasta" and converter [ "target" ] == "tabular" :
+if len ( self . _pids [ watcher ] ) == 0 :
+if relu :
+if config_root_path and config_root_path == root_path :
+if k == HySymbol ( "__init__" ) :
+if grandchild . tagName != "File" :
+if len ( search ) > 0 :
+if pattern . startswith ( "*" ) :
+if hasattr ( x , "data_model" )
+elif not metadata . get ( "nargs" ) :
+if cover . imageformat == MP4Cover . FORMAT_JPEG :
+elif value == "negative" :
+if not self . skip_ws or not self . character_data . isspace ( ) :
+if raise_error :
+if attribute [ 0 ] != "_" :
+if metadata is not None :
+elif len_ is None :
+if self . _is_init :
+if frappe . db . get_value ( "Lab Prescription" , self . prescription , "invoiced" ) :
+if not source . context :
+if base :
+if tag == "style" :
+if isinstance ( head , str ) :
+if user_agent not in kwargs [ "headers" ] [ "user-agent" ] :
+elif self . _aggregate_rows :
+if isinstance ( menu . json_content , str ) :
+if os . name == "nt" :
+if not torch . cuda . is_available ( ) or torch . cuda . is_available ( ) is False :
+if not os . path . exists ( os . path . dirname ( path ) ) :
+if field . fieldname not in cleaned_data :
+if isinstance ( nick , bytes ) :
+if self . completed_calls >= self . _resolve_at_msg_count :
+if x in std_format_code_types :
+if less_than_7_only and i == 4 :
+if line . startswith ( ( "#" , "@" , " " , ")" ) ) :
+if tag . name not in ( "input" , ) :
+elif obj . use_scope is None :
+if y < self . box [ 1 ] :
+if os . path . isfile ( shell ) and os . access ( shell , os . X_OK ) :
+if aggr not in c . aggregations :
+if len ( items ) > 1 :
+if user :
+elif typ in [ "strong" , "code" ] :
+if self . rbFit . GetValue ( )
+if h == "" :
+if res :
+if self . DATALEN != 0 :
+if not tester ( act . rstrip ( ) , exp . rstrip ( ) ) :
+if i < len ( stats ) :
+if { "ref" , "class_name" , "config_path" } . intersection ( param . keys ( ) ) :
+if pantsref not in precomputed . pantsref :
+elif "." in svalue :
+if o . provider is None :
+if split_single_char_options :
+if context . rounding == ROUND_FLOOR :
+if self . RBRect :
+if r == "None" :
+if d . GetLayer ( ) == pcbnew . Edge_Cuts :
+elif operation [ 0 ] == "crop" :
+if account . discriminator == "easaccount" :
+if dropTarget != self . GetRootItem ( ) :
+if len ( self . specs ) == 1 :
+if action_space is None :
+if s > 0 :
+if desc [ 0 ] != "-" :
+if any ( fnmatch ( name , pattern ) for pattern in basename_ignore ) :
+if src in self . destinations :
+if args . resource_ref :
+if len ( duplicates ) :
+if select . _limit_clause is None :
+if act . lower ( ) == "gelu" :
+if self . type == "ASK" :
+if node . tag_type == OPEN_TAG :
+if t == "representation" :
+if add_to_transit :
+if root_path :
+if cp . returncode == 0 :
+if self . flags . contiguous :
+if function . context [ self . KEY ] is True :
+if len ( transformations ) > 1 :
+if not inp :
+if self . vw . isValidPointer ( reg ) and self . vw . getLocation ( reg ) is None :
+elif flt ( doc . percent_complete ) == 100.0 :
+if w . shape != new_w . shape :
+if value :
+if namesp in self . root . modul :
+if self . _pending_removals :
+if module . module_num == 1 :
+if graph . has_edge ( edge ) :
+elif default . lower ( ) == "false" :
+elif isinstance ( elem , np . ndarray ) :
+elif subst [ name ] is not var :
+if self . use_checkpoint :
+if self . receiptexlogs [ site ] . is_alive ( ) :
+if node is None :
+if sub == sub [ :: - 1 ] :
+elif isinstance ( elt , str ) :
+if user . title . lower ( ) == username . lower ( ) :
+if e . name in self . pending_elements :
+if LINK_KEY_AND_ADD_TO_front_of_ll :
+if name in self . _local_type_del_descriptors :
+if participant in self . participant_items :
+if inputs [ - 1 ] . owner is None :
+if self . _cancel_status . effectively_cancelled :
+if shapes is None :
+if module_json [ "meta" ] [ "config" ] :
+if prefix :
+if len ( v ) >= 2 and ( ( v [ 0 ] == "'" and v [ - 1 ] == "'" ) or "=" not in line ) :
+if isinstance ( handler , StreamHandler ) :
+if name in excluded :
+if not self . in_current_block ( self . cursor ) :
+if os . path . exists ( project_dir ) :
+if reuse_len is not None :
+if channel is None :
+elif img . width >= width and img . width * img . height > image . width * image . height :
+if current :
+elif isinstance ( getattr ( self , field [ 0 ] ) , bytes ) :
+if start == self . plugin_args . end :
+if not scoperef :
+if self . host_uuid :
+elif "error" in line :
+if inspect . ismodule ( attr ) :
+elif not compare . compatible_with ( v , False ) :
+if not isinstance ( controls_ids , list ) :
+if isinstance ( payload , bytes ) :
+if res . costs :
+if ss [ "branch" ] :
+if path_tail != orig_path :
+if i > 0 :
+if isinstance ( item , str ) :
+elif str ( libcxx ) == "libstdc++11" :
+elif isinstance ( v , basestring ) :
+if verbose :
+if review_request . local_site :
+if s [ 0 ] == 1 :
+if not data :
+if len ( s ) > 1 :
+if not hasattr ( wsgi_errors , method ) :
+if rules_module is None :
+if group not in d2 :
+if key in ( "paused" , "modified_on" ) :
+elif custom_action_keyword [ "Dict" ] [ "Off" ] in phrase :
+elif allow_nw_id_external is not None and nw_id_ == allow_nw_id_external :
+if line == "" :
+if expanded [ 4 ] == "*" :
+if name . startswith ( "check_" ) :
+if self . attachment :
+if self . _log_n [ i ] is not None :
+if tags :
+if isinstance ( val , netCDF4 . Variable ) :
+if isinstance ( r , Exception ) :
+if module_json [ "meta" ] [ "config" ] :
+if not isinstance ( vs , list ) :
+if msg :
+if not line :
+if not group . can_manage_permissions :
+if s in seen :
+elif stats [ "uptime" ] > 3600 :
+if source :
+if svalue is None :
+if el . tag == "DisplayName" :
+elif order == 1 :
+if self . stream . tell ( ) >= self . maxlen :
+if entry :
+if "syntax error" not in str ( e ) :
+if not b :
+if container . pop ( _list_marker , False ) :
+if not os . path . exists ( dirname ( self . checkpoint_path ( ) ) ) :
+if library_description :
+if poll is not None :
+if workflow :
+if example . valid :
+if self . _unit == "word" :
+if state == tk . DISABLED :
+if vrf_rf is not None and table_rf not in vrf_rf :
+elif "protected" in obj and obj [ "protected" ] :
+if prefs . has_run :
+if counter % 10000 == 0 :
+if os . path . isdir ( locale_dir ) :
+if distance > 0 :
+if isinstance ( text , ( CodeViewText , ShellText ) ) and text . is_python_text ( ) :
+if "name" in result :
+if not filter_method ( context , filter_item ) :
+if isinstance ( data , str ) :
+if isinstance ( instr , AsmRaw ) :
+if operation . is_product :
+elif act [ "component" ] [ "code" ] in MANUAL_INTERVENTION_COMP_CODES :
+if authorization_required :
+if cred . credential_type . kind != "vault" :
+if self . party_account and self . party_type in ( "Customer" , "Supplier" ) :
+if g :
+if i >= min ( len ( scales ) , len ( vidxs ) // 2 ) :
+if not isinstance ( val , list ) :
+elif row [ 0 ] > linenum :
+if line == "" :
+if not all ( c in string . hexdigits for c in txt ) :
+if compare_id not in compares_done :
+if not self . inplace :
+if '"' in text :
+elif err . code >= 400 and err . code < 500 :
+if user . is_superuser :
+if type ( node . value ) in ( StringType , UnicodeType ) :
+if stack_name :
+if k . startswith ( "PPP_" ) :
+elif isinstance ( m , nn . BatchNorm2d ) :
+if socket . is_linked :
+elif field_name [ "int_field" ] [ "op" ] == "lte" :
+if i == 0 :
+if attr_path :
+if issubclass ( cls , UIModule ) :
+if leaf in input_dict :
+if isinstance ( value , memoryview ) :
+elif not server_side and var . can_contain ( "\r" ) :
+if len ( filename ) > 1 :
+if fnmatch . fnmatch ( name , base ) :
+if not k in ( "data" , "gae_user" , "credentials" , "content" , "config" ) :
+if executable . check ( ) :
+if sys . platform == "darwin" :
+elif isinstance ( results [ i ] , list ) :
+if parent_id == id :
+if path not in self . entries :
+if "polarization" in ds_info :
+if ffi . typeof ( gdobj ) . kind == "pointer" :
+if chars :
+if np . isclose ( weighted_count , 0.0 ) :
+if current != data :
+if other_option in option :
+if return_type is None :
+if len ( tasks ) :
+if callable ( field . default ) :
+if ext is None :
+if batch_idx == 0 :
+elif self . __show_animation :
+if vtt_path is None :
+if fn_batch_ndim > 0 :
+if tt == 10 :
+if isinstance ( ENABLE_JS2PY_ERRORS , bool ) :
+if item is not None :
+if self . configuration . eqlx_pool != "default" :
+if self . pk :
+if booster :
+if ex == 500 :
+if "d" in fmt :
+if EnumLoc == Ident1 :
+if ogid is not None :
+if old_val != val :
+if self . shift_address :
+if event == EVENT_CALL :
+if not self . is_playback ( ) :
+if i == x [ 0 ] and j == x [ 1 ] :
+if build_data . built ( dpath ) :
+if url in repo . remotes :
+if opcode == 2 :
+if ip . device is not None :
+if isinstance ( state [ k ] , list ) :
+if ext_name . startswith ( "CL_" ) :
+if sha256sum is None :
+if log_cmd . check ( f"docker logs for {self.path.k8s}" ) :
+if "min" in attributes :
+if cs [ "workerid" ] != workerid :
+if final_contexts :
+elif self . _keys [ hash_ ] == key :
+if tt == 10 :
+if tot > 3 * len ( X_train ) :
+if i + 1 != len ( self . vars ) :
+if dport in port :
+if family . get_father_handle ( ) :
+if filename in cache :
+elif op . stage == OperandStage . combine :
+if script [ sop_idx : sop_idx + len ( sig ) ] == sig :
+if extracted_path is not None :
+if ".svn" in dirs :
+if unit . source :
+if self [ option ] :
+if extra . loc :
+if sensor_state is None :
+if not allowed :
+if not isinstance ( key , str ) :
+if little_endian :
+if prop is not "members" :
+if dirs and not os . path . exists ( dirs ) :
+if src . startswith ( "<<!--" ) :
+if fix :
+if use_logind :
+if start_new_word :
+elif tp == "flush" :
+if m :
+if isinstance ( in_arrays , tuple ) :
+if user . is_superuser or obj . owners . filter ( pk = user . pk ) . exists ( ) :
+if sp . isparse ( y ) :
+if example . get ( attribute ) is not None and not example . get ( attribute ) == "" :
+if self . set_extra_data ( extra_data ) :
+if current_test != old_test :
+if i not in markups :
+if column_index :
+if tool_data_table_path not in self . tool_data_watcher . monitored_dirs :
+if hasattr ( obj , "__class__" ) :
+if admin_model . name in self . skip_models :
+if self . _has_stop_signal ( raw_inputs ) :
+elif isinstance ( getattr ( self , field [ 0 ] ) , bytes ) :
+if isinstance ( configuration . kwargs [ "value_set" ] , dict ) :
+elif i not in seen :
+if self . list_ctrl . IsSelected ( index ) :
+if self . cbhdl is None :
+if ret . returncode :
+if line is None :
+if orig_text [ - 1 ] not in ( "" , ", " , " " ) :
+if even :
+if "REFUND" in params [ key ] or "|" in params [ key ] :
+if hasattr ( self , event_handler_name ) :
+if param_lr is Variable :
+if not self . initialized :
+if self . need_save :
+elif not x . is_atom ( ) and not s . is_atom ( ) :
+if value >= minv :
+if "meta-environment" in root or "cross-canadian" in root :
+if mime_type and mime_type . startswith ( "image" ) :
+if to_boolean ( callbackfn . call ( _this , ( kValue , float ( k ) , array ) ) ) :
+if v . size > self . batch_size :
+if disk . volume == volume :
+if g . parent :
+if which == "pipeline_node" :
+if value is None :
+if self . choices is None :
+if size is None :
+if re . match ( r"[^ ]+\?(.+)" , item , re . I ) :
+if i . matrix . shape [ 1 ] == 1 :
+if stmt == lines [ lidx ] :
+if module . bias :
+if entry . is_file ( ) :
+if always_push_mark :
+if "results.train_y_misclass" in dd :
+if conflicting_members . exists ( ) :
+elif auto_pad == "SAME_UPPER" :
+if tt == 10 :
+if os . path . exists ( "cromwell_work" ) :
+if nb not in versions :
+if settings . USE_TZ :
+if status :
+elif custom_action_keyword [ "Dict" ] [ "Off" ] in phrase :
+if primary_key :
+if len ( x ) != n_in :
+elif val < 1024 ** 3 :
+if parent_name :
+elif k == "created_at" :
+if self . optimize > 0 :
+if isinstance ( self . header , RenderedContent ) :
+elif isinstance ( value , dict ) :
+if issubclass ( picker . __class__ , wx . FileDialog ) :
+if err . args [ 0 ] in ( ssl . SSL_ERROR_EOF , ssl . SSL_ERROR_ZERO_RETURN ) :
+if self . counting != "detailed" :
+if self . transform_regression_label :
+if diff ( filepath , new , encoding ) :
+if arn_gen :
+if "KubeflowV2DagRunner" not in dsl_contents :
+if properties :
+if not len ( line . strip ( ) ) :
+elif self . operand_dtype == sp . csr_matrix :
+elif isinstance ( v , ( list , tuple , dict ) ) :
+if not only_synonyms :
+if kill_switch_ev :
+if s is None :
+if self . vw . vaByName ( name ) :
+if bmin < def_len :
+if poly_i . shape [ 0 ] == 0 :
+if ext == ".py" or ext == "" and os . path . isdir ( os . path . join ( basedir , name ) ) :
+if line . startswith ( "+" ) :
+if status :
+if reference not in self . _reverse_references :
+if combo . GetLabel ( ) == "TR_VIRTUAL" :
+if c . strip ( ) . startswith ( "CSRF-Token-" ) :
+if "http://" in path :
+if message :
+if x not in Force_Split_Words :
+if - delta < expr . get_float_value ( ) < delta :
+elif t == SQLITE_TEXT :
+if string == "True" :
+if store . _test_transaction ( ) :
+if self . default_rule :
+if data :
+if isIPv4 ( line ) or isIPv6 ( line ) :
+if cum < self . left . s :
+if len ( value ) == 2 :
+if k in ( "lccn" , "oclc" , "isbn" ) :
+elif action == "replacement" :
+elif t == "jaconv" :
+if read_len < len ( var ) :
+if tktype in ( "carbon" , "cocoa" ) :
+if b . name . startswith ( "__" ) :
+if old_type and new_type :
+if updated_lock :
+if len ( batch_shape ) < self . dim :
+if changed :
+if dropout :
+if o . name . lower ( ) == name . lower ( ) :
+if name . startswith ( "check_" ) :
+if not defaults and value == default_values [ k ] :
+if not node [ "ids" ] :
+if use_first_value :
+if return_code != 0 :
+if self . command_is_enabled ( item , focus ) :
+if not app . config :
+if getattr ( mod , "module_type" , "" ) . strip ( ) == mod_type . strip ( ) :
+if key not in do_not_write
+elif isinstance ( v , AoT ) :
+if fname in SKIPS :
+elif k . stop is None :
+if lowest_wall is None :
+if subchunk_id == b"data" :
+if type_constraint . satisfied_by ( tgt ) and target_predicate ( tgt ) :
+if not re . match ( PROCTYPE_MATCH , k ) :
+if digit % 10 == 0 :
+if char != "\n" :
+if partner_node not in partners :
+if curr_prompt :
+if isinstance ( definition , IconColumn ) :
+if is_valid_key :
+if name == "__pycache__" :
+if k [ : 1 ] == "-" :
+elif isinstance ( const , CodeType ) :
+elif ( ( current_directions [ 0 ] == StudyDirection . NOT_SET ) :
+if self . __Token :
+if active_greenlet is not None and active_greenlet != self . _hub :
+if retval :
+if line . startswith ( ">END" ) :
+if is_first :
+if string_value != "NONE" :
+if current_test_name is None :
+elif stats [ "uptime" ] > 3600 :
+if self . visible :
+if counters [ title ] > 0 :
+if "resourceUri" in expected :
+if string is None :
+if print_error :
+if isinstance ( value , AlbumNode ) :
+if next_iteration == 0 :
+if i == 0 :
+if v :
+if type ( targets ) == list :
+if dt is not None :
+if w :
+elif strings is not None :
+if field . has_changed ( initial , data ) :
+if hasattr ( package , "__loader__" ) :
+if self . waiters :
+if multi_scale_output :
+if self . frontAlterationTransposeInterval == intV :
+if k in self . requires_grad :
+if sig is None :
+if self . training_tracker is not None :
+if isinstance ( field . type , Structure ) :
+if old_value is None :
+if self . _complete ( ) :
+if self . match ( ")" ) :
+if day != valid_value :
+if isinstance ( entry , dict ) :
+if os . path . exists ( qtgt ) :
+if not isinstance ( dim_value , int ) :
+if brace_tree :
+if isinstance ( data , str ) :
+if sortMode :
+if e . errno != errno . EINTR :
+if isinstance ( m , string_type ) :
+if schema :
+if arg . startswith ( "from_" ) or method is None or not inspect . ismethod ( method ) :
+if name != "bonobo" :
+if isinstance ( operation , migrations . RenameModel ) :
+if strip_delimiters :
+if lccn not in found :
+elif name == "covar_module.base_kernel.raw_lengthscale" :
+if not r or not self . _sock . recv ( 1024 ) :
+if a . alpha ( ) >= self . _inputvalues :
+if not is_prefix ( self . path , sr_path ) :
+if key in ( "folds" , "nfolds" ) :
+if axis == "_" :
+if node . test :
+if not any ( [ unicode ( s ) . strip ( ) for s in node . contents ] ) :
+if path . endswith ( ":" ) :
+if sales_person :
+if "init" not in item . keywords :
+elif e . filter == select . KQ_FILTER_WRITE :
+if path in self . rootgrp :
+if e . args [ 0 ] == errno . EINTR :
+if hashash is not None and hashash == self . comp . genhash ( code , package_level ) :
+if list_idx == - 1 :
+elif isinstance ( sym , ast . ClassDef ) :
+if package :
+if ref in self . _editableChildren :
+if isinstance ( v , dict ) and k != "headers" :
+elif isinstance ( s , collections . abc . Sequence ) and len ( s ) == 0 :
+if "exp" in conf [ "properties" ] [ "attributes" ] :
+if reg not in gpregs . expr :
+if not self . reference_date :
+if monad . cls_bl_idname == self . cls_bl_idname :
+elif plen > 0 :
+if isinstance ( out , np . uint8 ) :
+if bbox is None :
+if random ( ) < self . mutationProb :
+if nSpaces > 0 :
+if not c :
+if cursor . y not in line_nums :
+if not rule_exists :
+if isinstance ( node , DisjunctionNode ) :
+elif w not in identified :
+if attribute . object_relation == "raw-data" :
+if match :
+if fn :
+if classValue :
+if value not in EMPTY_VALUES :
+if mode in [ "rb" , "wb" , "ab" ] :
+if _path [ - 1 ] != current_path [ - 1 ] :
+if lookup in level_per_module :
+if self . HasCloseButton ( ) :
+if dista < distb :
+if len ( line ) == 1 :
+if not isinstance ( data , dict ) :
+if "user_global" not in ip_shell . ns_table :
+if ext in self . extensions :
+if gates [ i ] :
+if self . end_time and self . _is_later_than_end_time ( segment_path ) :
+if not confirmation :
+if compute_env . env_type == "MANAGED" :
+if result :
+if br . Layer in layers
+if isinstance ( jre_home , bytes ) :
+if name not in self . config [ "plugins" ] :
+if depth == 0 :
+elif not compare . compatible_with ( v , False ) :
+if self . current_rule :
+if self . midi_ctrl . pulse == self . midi_ctrl . ppqn :
+if self . _unit == "word" :
+if testdef . exception :
+if ( jid , sid , ifrom ) in self . _preauthed_sids :
+if timeout is None :
+if self . ctec_arithmetic . is_in_group ( s ) and type ( t ) != int :
+if self . instrument_queue . empty ( ) :
+if self . line . startswith ( "Match_columns" ) :
+if not isinstance ( entry , dict ) :
+if start :
+if not line :
+if tag . name not in ( "input" , ) :
+if hash_of_gold != hash_of_file :
+elif donel [ 0 ] :
+if abs ( item ) < 0 :
+if not config . quiet :
+if protect :
+if os . path . isdir ( path ) :
+elif isinstance ( module , nn . BatchNorm2d ) :
+if key not in new :
+if difference :
+if isinstance ( values , list ) :
+if aqi_data . get ( "status" ) == "ok" :
+if len ( x ) > len ( y ) :
+if interval < 0 :
+if user_agent not in kwargs [ "headers" ] [ "user-agent" ] :
+if settings_model :
+if cur_attempt >= num_attempts :
+if path in local_plugins_dir :
+if cur_node_idx is None :
+if self . do_manders :
+if family == f2 :
+if not hasattr ( request , "app" ) :
+if group :
+if cur_spec . satisfies ( spec ) :
+if i != - 1 :
+elif key . startswith ( "." + _WILDCARD_TOKEN ) :
+if node . image is None :
+if private :
+if "Etag" in response . headers :
+if mode != 0 :
+if self . _process . poll ( ) is None :
+if current_word :
+if r is not None :
+if not line :
+if request . META :
+if not super . builtin ( ) :
+if isinstance ( self . object , string_types ) and self . object . endswith ( ".vtkjs" ) :
+if not os . path . exists ( os . path . dirname ( self . filename ) ) :
+if self . config . has_section ( refiner . name ) :
+if node . children [ 0 ] . type == token . COLON :
+if self . n == self . total :
+if i % 2 == 0 :
+if self . compress :
+if self . queue is not None :
+if tt == 16 :
+if remaining :
+if f :
+if not data :
+if dd [ "results.train_y_misclass" ] < optimal_measure :
+if os . path . exists ( self . pathfile ) :
+if value is not None :
+if m . _baseDisplay ( callingWindow , srcContext , mainItem , selection ) :
+if ( optimize ) or ( Signature . digest ( ) == parsetab . _lr_signature ) :
+if opt == "--moz-tools" :
+if rest [ : 2 ] != b"\r\n" :
+if self . vertical_scroll > 0 :
+if isinstance ( item , str ) :
+if i == start_after :
+if settings . ACCOUNT_OPEN_SIGNUP :
+if self . is_defaultitem ( path ) :
+if i == 0 :
+if nplanes > self . max_per_well :
+if parent == path :
+if type ( seed ) != int :
+if self . _errors != "surrogateescape" :
+if session :
+if idx == arg_index :
+if proto == 0 :
+if accum [ - 1 ] :
+elif was_selected :
+if i == 0 :
+if comp . track_index == track_index :
+if self . _allowed_fields and name in self . _allowed_fields :
+if partition_id in self . param_to_partition_ids [ group_id ] [ param_id ] :
+if u_socket . hide_safe and v_socket . hide_safe :
+if not lines :
+if page . login_required and not request . user . is_authenticated :
+if kwargs . get ( "in_place" , False ) :
+if isinstance ( kwargs . get ( "event_data" , { } ) . get ( key ) , str ) :
+if authtype :
+if value is not None :
+elif self . md_bg_color == t . accent_color :
+if j == 0 :
+if key not in old_obj . __table__ . columns :
+if tri_gram in tri_grams :
+if k == "attrlist" :
+if not isinstance ( self . axis , int ) :
+if self . __dict__ [ "_" + attrname ] != None :
+if category is not None :
+if reference not in self . _reverse_references :
+if len ( symbol ) >= delimiter_len and symbol [ - delimiter_len : ] == delimiter :
+if accepted_quality in supported_accepts :
+elif isinstance ( item , bytes ) :
+if tt == 8 :
+if vlan_id == REST_VLANID :
+if str ( push_allowance . actor . databaseId ) == str ( app_config . GITHUB_APP_ID ) :
+if self . clustering . is_fit :
+if nbr >= size :
+if t is None :
+if txt [ : 3 ] == "&#x" :
+if value is None :
+elif c == "e" :
+if len ( data ) < self . limit :
+if tf . executing_eagerly ( ) :
+if prefix is not None :
+elif ct == FORM_URL_ENCODED :
+if not data :
+elif delete_ALL_OLD :
+if _lib . OBJ_obj2nid ( obj ) == _lib . NID_crl_reason :
+if a > b :
+if ch == "}" :
+elif px > 0 :
+if should_yield :
+elif registries . match ( handler = handler , cause = cause , ignore_fields = True ) :
+if self . debug :
+if log_all :
+if groups is not None :
+if dt < self . timeout :
+if not line :
+if self . lasttime is None or x_stats . lasttime < self . lasttime :
+if name in dir ( resource ) :
+if isinstance ( prop_vals , ( list ) ) :
+if use_cudnn :
+if not fn :
+if "=" in f :
+if grandchild . tagName != "File" :
+elif isinstance ( value , datetime . time ) :
+if definition is None :
+if isinstance ( v , dict ) :
+if self . raise_on_error :
+if get_array_module ( ret ) . isscalar ( ret ) :
+if tagging_scheme == TAG_UNUSED :
+elif isinstance ( t , str ) :
+if new_config . manhole :
+if os . path . isfile ( file_path ) :
+elif k is None :
+if method is None :
+if callback :
+if isinstance ( features , str ) :
+if subevent :
+if idx == 0 :
+if q < rr [ i ] :
+elif os . path . exists ( x ) :
+elif "f" in fmt :
+if hasattr ( tool , "lineage" ) :
+if numel != 1 :
+if match is not None and len ( match . groups ( ) ) == 1 :
+if leaf == SymbolTrue :
+if header == ofproto . OXM_OF_METADATA :
+elif tok . visibility == "protected" :
+if node . left is not None :
+if self . slots [ slot_id ] . ending :
+if self . HasCapture ( ) :
+if isinstance ( v , dict ) :
+if t in prof :
+elif text != self . labelList . item ( i ) . text ( ) :
+if not self . linked_structure . can_match ( structure ) :
+if online and self . _is_testbot_online ( ) :
+if self . match_function ( file ) :
+if height > MAX_TEXTURE_SIZE or width > MAX_TEXTURE_SIZE :
+if args . raw :
+if self . model_name == owner_model . __name__ :
+elif isinstance ( field , fields . ListField ) :
+if type_req is not None and not isinstance ( val , type_req ) :
+if os . path . exists ( self . icon ) :
+if limit != oldLimit :
+if online and self . _is_testbot_online ( ) :
+if context . rounding == ROUND_CEILING :
+if col_items == rows :
+if self . timer :
+if second_level_res . ready ( ) :
+if not hasattr ( other , "items" ) :
+if hasattr ( o , "metadata_path" ) :
+if count :
+if not proc :
+elif key == "points" :
+if mode == "predict" :
+if addr :
+elif self . _chain_notify :
+if not ( i < len ( extra . tokens ) ) :
+if len ( part ) != 0 :
+if attr_name . endswith ( "pk" ) :
+if mydict is None :
+if i < len ( list ) :
+if exc is None :
+if fields [ 0 ] == lang :
+if isinstance ( value , alias_flag_value ) :
+if use_cuda :
+elif target_str . startswith ( u"*** " ) :
+if value is None :
+if self . puts_ is None :
+if args . policy_type :
+if GN [ - 1 ] == "." :
+if "track" in field :
+if video_packet :
+if path in _devices :
+if not self . _framerate :
+if len ( record ) == 6 and record [ 1 ] :
+if self . server :
+if not _lib :
+if hasattr ( event_info , "TIME_CREATED" ) :
+if constants . rpmCheck or Scheduler . _checkNextPackageIsReadyToBuild ( pkg ) :
+if gap :
+if line . startswith ( "?" ) :
+if limit == settings . DEFAULT_PAGE_SIZE :
+if self . squeeze_dims [ i ] :
+if request . get_json ( ) is None :
+if not self . _css . get ( medium ) or path not in self . _css [ medium ] :
+if original not in template :
+if kwdSndx == soundex ( key . encode ( "ascii" , "ignore" ) ) :
+if k . startswith ( "Pad" ) :
+if is_list :
+if name [ 0 ] == "#" :
+elif silhouette <= best_silhouette :
+if o . object [ 0 ] != 1 :
+if event . state & Gdk . ModifierType . SHIFT_MASK :
+if each :
+if path_id is None :
+if link . startswith ( "magnet" ) :
+if read [ 0 ] == "," :
+elif isinstance ( v , list ) or isinstance ( v , tuple ) :
+if old_mtime != mtime :
+if self . count == 0 :
+if evaluate ( processed_analysis , vulnerability . rule ) :
+elif val < 1024 ** 3 :
+if self . event is not None and self . event . is_set ( ) :
+elif self . _size . get ( ) < 30 :
+if GafferImage . BufferAlgo . intersects ( tileRegion , region ) :
+if group_args :
+if not defaults and value == default_values [ k ] :
+if name is None :
+if self . _handler :
+if self . is_server ( ) and service == _USERAUTH_SERVICE :
+if not self . _write_finished or self . is_client :
+if target_pid == pid :
+elif op . stage == OperandStage . combine :
+if word :
+if type is None or tag [ "d_tag" ] == type :
+if line . startswith ( searchfor )
+if settings . USE_TZ :
+if header == b"OXLI" :
+if self . chunkOffset == 0 :
+if res :
+if not key :
+if exc :
+if self . _actives_span is not None :
+if tmpdir :
+if "-" in api_version_str :
+if mem_limit is None :
+if tt == 8 :
+if div == 1 :
+if not is_logged_in ( ) or not has_access ( "is_coorganizer" , event_id = event . id ) :
+if self . _setup_mp_logging_listener_ is True :
+if module . is_compatible_with ( client ) :
+if idx == 0 :
+if collapsed :
+if isinstance ( result , float ) :
+if task in deps :
+if layer_name in self . weight_layers :
+elif operator == "Min" :
+if relu :
+if self . _is_my_trace ( edge ) :
+if len ( self . _folder_handlers ) != 0 :
+if text == "" :
+if message . message_type == MailFetcherMessage . MESSAGE :
+if config . get ( "development" ) and config . get ( "json_authentication_override" ) :
+if model :
+if loc and loc [ L_LTYPE ] == LOC_STRING and loc [ L_VA ] > va :
+if hasattr ( monad , "cls_bl_idname" ) :
+elif peer . last_good > cutoff :
+if composite_file . description :
+if device :
+elif isinstance ( v , list ) or isinstance ( v , tuple ) :
+if exc . errno != errno . ENOENT :
+elif self . dots :
+if self . scroll_up_rect ( ) . collidepoint ( p ) :
+if not copyright :
+if country in self . value . all ( ) :
+if col == nCol :
+if not any ( [ unicode ( s ) . strip ( ) for s in node . contents ] ) :
+if ch in done :
+if isinstance ( nbChars , int ) :
+if state :
+if t [ 0 ] == " " and t [ 1 ] == " " and t [ 0 ] == " " :
+if not os . path . exists ( target_path ) :
+if self . _creds . access_key :
+if getattr ( mod , "module_type" , "" ) . strip ( ) == mod_type . strip ( ) :
+if os . path . isfile ( os . path . join ( path , self . index_file ) ) :
+if p . data is None :
+if len ( val ) == 1 :
+if done :
+if isinstance ( entry , str ) :
+if reg == r :
+if var . get ( u"forget" )
+if isinstance ( v , dict ) :
+if len ( TRANSCEIVER [ t ] ) < b + 1 :
+if remove_repetitions and i != 0 and char == sequence [ i - 1 ] :
+if self . user_cache is None :
+elif e . get ( "event" ) == ActionExecuted . type_name :
+if key in ids :
+if url :
+if tt == 10 :
+if not os . path . isfile ( filename ) :
+if isinstance ( feature_name , str ) :
+if pool :
+if role in ( "time" , "TIME_PERIOD" ) :
+if not trial :
+if match :
+if done :
+if raw :
+elif not stringprep . in_table_b1 ( c ) :
+elif w in self . word_dict :
+if value . has_form ( "List" , None ) :
+if src . exists ( ) :
+if v . channel_id == vehicle . channel_id :
+if regex_match :
+if self . firsttime is None or x_stats . firsttime >= self . firsttime :
+if len ( set ( lengths ) ) > 1 :
+if k in self . combinations :
+if item :
+if token . token_type == "value" :
+if line [ len ( comment ) : ] . lstrip ( ) . startswith ( comment ) :
+if ( i in model . COriginNodeForCell [ h ] ) or ( j in model . COriginNodeForCell [ h ] ) :
+if retval :
+if n . endswith ( ".py" ) and not n . startswith ( "bad" ) :
+if create_target :
+if self . mode == "full" and self . method == "fresh" :
+if bytes_count >= screen_length_limit :
+elif char == "<" :
+if example . valid :
+elif len ( value ) != 0 :
+if first_exception is None :
+if root_obj :
+if molecule . fci_one_rdm is not None :
+if subDomain :
+if not all_cve_urls :
+if skip_flag :
+if not interface :
+if str ( conf [ "properties" ] [ "sslEnforcement" ] ) . lower ( ) == "enabled" :
+if not args :
+if tid in self . locks :
+if len ( sp . split ( " " ) ) > 1 and not sp . startswith ( "cellular" ) :
+if log . getEffectiveLevel ( ) <= logging . DEBUG :
+if sign is None :
+if type ( til ) is bytes :
+if git_branch_line . startswith ( "*" ) :
+if hasattr ( a , "includedirs" ) :
+if name not in self . _features_dict :
+if "io" in race_config . charts :
+if name in partition :
+elif "field" in condition and "type" not in condition :
+if buf . startswith ( prompt ) :
+if key in LoggerFactory . schedule_logger_dict :
+if wrong_found >= 5 :
+if not item . group ( "name" ) :
+if sub_child not in res :
+if id not in axIds :
+if k == neighbors . CONNECT_MODE :
+if _timer :
+if isinstance ( item , tf . keras . layers . Layer ) :
+if fnmatch . fnmatch ( tgt , host ) :
+if six . PY2 :
+if telnet_login ( host , port , username , password ) :
+if metric in scores :
+if self . _cmysql . fetch_row ( ) :
+elif "default_val" in f . kargs :
+if cur . obj_offset in seen :
+if os . path . isfile ( name ) :
+if isinstance ( _v , Variable ) :
+if row [ 0 ] == 0 :
+elif isinstance ( methods , ( list , tuple ) ) :
+if stat . S_ISDIR ( mode ) :
+if key not in keys :
+if not np . testing . is_testable :
+if prefix :
+if isinstance ( arg , ast . Name ) :
+if isinstance ( publish_year , ( tuple , list ) ) :
+if request . path . startswith ( sp ) :
+if sub :
+if num_nullable == 0 :
+if input_type == np . float64 :
+if diff_min is not None :
+if deval is None :
+if user_needs_updating ( user , user_data ) :
+elif isinstance ( v , basestring ) :
+if PY3 :
+if answer == Gtk . ResponseType . YES :
+if line :
+if data [ "cdev" ] not in disks :
+if col and col . get_title ( ) == _ ( "Active" ) :
+if song . file_name is None :
+if pricing_rule . condition :
+if len ( self . _scopeStrictModes ) > 0 :
+if objectstore . is_remote ( fr ) :
+if m :
+elif os . path . exists ( os . path . join ( basedir , filename ) ) :
+if tt == 0 :
+if self . __module__ == "__main__" :
+if idx == 0 :
+if isinstance ( c , str ) :
+if neighbor is None :
+elif is_small_integer ( token ) :
+if key == "st_mode" :
+if only :
+if cei . value == n :
+if type ( e . value ) is None :
+elif i == ner :
+if not word_region . empty ( ) :
+elif self . op == "/" :
+elif re . match ( r"^=\w+" , line ) :
+if data :
+if type ( obj ) == types . ClassType and issubclass ( obj , PerfCase ) :
+if r . status_code == 404 :
+elif fam . mother_handle and not fam . mother_handle == person . handle :
+if not confirmation :
+if methods is None :
+if lm [ "ig-name" ] == initiator :
+elif value == "below" :
+if username in users :
+if self . allow_process_request :
+if self . is_live :
+if schemaName :
+if not isinstance ( op_list , list ) :
+if family :
+if key in ( "disabled" , "is_up" ) :
+if activity . hours :
+if cpus == int ( cpus ) :
+if prop_name in prop_value :
+if self . escape_chars :
+if not filematch . exists ( ) :
+if container :
+if len ( value . shape ) != self . shape :
+if PY2 :
+if e . status == 404 :
+if self . _items_from_datafile_should_be_checked ( df ) :
+if kind == "-v" and arg . v == kind :
+elif node . is_registration :
+if child . getchildren ( ) :
+if timeout :
+if exp_m :
+if ON_WINDOWS :
+if ensuremode == "append" :
+if not self . _has_season_banner ( show_obj , season ) :
+if grade != solution :
+if match :
+if key in self . _columns :
+if res :
+if not volume_id :
+if "results.train_y_misclass" in dd :
+if total_mins_elapsed > self . max_time_mins :
+if registered_functions is None :
+if t is self . needle :
+if filters . get ( key ) :
+if isinstance ( value , datetime ) and isinstance ( limit , timedelta ) :
+if v2 :
+if hasattr ( package , "__loader__" ) :
+if end [ - 1 ] > n_samples :
+if len ( self . sels ) == 1 :
+if client_version not in ( "?" , None ) :
+if self . match_name :
+if size == 0 :
+if requires_index :
+if result != 0 :
+if length == 0 :
+if not len ( self . _node_id ) == constants . HASH_LENGTH :
+elif lid is None :
+if src not in filtered_src and tgt not in filtered_tgt :
+if options . sublayer :
+if not cal :
+if clients is None :
+if line is None :
+if self . request_in_progress :
+if self . filter ( sample ) :
+if form_class . must_display ( request , * args , ** kwargs ) :
+if another . get_active ( ) :
+if self . _loop . get_debug ( ) :
+if bomb_count >= 10 :
+if only :
+if link . meta [ b"state" ] == States . NOT_CRAWLED :
+if key == "gitdir" :
+if dim_value < 0 :
+elif "filename" in handler . keys ( ) :
+if dt . year == ymin and dt . year == ymax :
+if status
+if stat . S_ISDIR ( int ( response . st_mode ) ) :
+if n > max_next :
+if sys . version_info >= ( 3 , ) :
+if comp :
+if k not in self . _data1 and k in self . _data2 :
+if end < 0 :
+if "start" in params :
+elif str ( libcxx ) == "libstdc++11" :
+if tag . user . is_staff :
+if value . has_form ( "List" , None ) :
+if before . to_string ( ) != action . to_string ( ) :
+if is_primitives :
+elif len ( field_type ) == 1 :
+if type ( item ) is ActionHandle :
+elif opt == "--without-tests" :
+if i == index :
+if x < y :
+if fn . startswith ( "test" ) and fn . endswith ( ".py" ) :
+if name . startswith ( "check_" ) or name . startswith ( "call_" ) :
+if e . error == "user_is_bot" :
+if self . wrapped is not None :
+if f . read ( 1 ) == "1" :
+if data . app_token == app_token :
+if specific_tables :
+if _ndx in self . _data :
+if not bit :
+if log :
+if color is None :
+if c . isalnum ( ) :
+if skip_key :
+elif message [ "type" ] == "websocket.receive" :
+if sys . platform == "darwin" :
+if self . has_inputs :
+if op . node . op == "Const" :
+if not l :
+if isinstance ( expr , ir . ExprList ) :
+if benchmark :
+if identifier [ 0 : self . index_depth ] not in self . _index [ start_char ] :
+if "exp" in conf [ "properties" ] [ "attributes" ] :
+if unicode_attributes :
+if exit_code != 0 :
+if s [ 0 ] < segmentCount :
+elif social . get ( key ) == [ ] :
+if not frames :
+if is_shadowing ( pname ) :
+if isinstance ( v , dict ) :
+if f . clock_domains [ k ] . rst is not None :
+if node_settings is None :
+if type ( test ) is Literal :
+if self . reverse :
+if len ( y ) == 1 :
+if isinstance ( item , _StringType ) :
+if k . lower ( ) == ikey :
+if new_action == 1 :
+if not g . doHook ( "bodyclick1" , c = c , p = p , v = p , event = event ) :
+if "class_weights" not in spec . aggregate . top_k_list :
+if r :
+if parent . type in ( "suite" , "file_input" ) :
+if var . get ( u"res" ) . neg ( ) :
+if item . Length < 1 or item . get_key ( ) == None :
+if typename == "decimal" :
+if filename and tarfile . is_tarfile ( filename ) :
+if evaluatedObject . matrix_world is not None :
+if ">" in text :
+if e . code == 502 :
+elif code == Path . LINETO :
+if os . path . basename ( fname ) == "shrinker.py" :
+if s not in sys . path :
+if instance [ "VpcId" ] == vpc
+if page . relations . disambiguation_links is not None :
+if printElemNumber :
+if not credentials [ "attributes" ] . get ( "region" , "" ) . strip ( ) :
+if self . _results :
+if contents is None :
+if not chunk :
+if len ( f . use_previous . times . keys ( ) ) > 1 :
+if isinstance ( self . exc [ 1 ] , SyntaxError ) :
+if "error" in result :
+if dir :
+if code == "550" :
+if self . depth > 0 :
+if shell_path :
+elif val < 2 * 255 // 3 :
+elif item [ 3 ] :
+if not file_name . endswith ( ".java" ) :
+if counter == retry :
+if type == BaseWbUrl . URL_MOD :
+if isinstance ( ploidy , dict ) :
+if user . room :
+if "Conflict operation on container" not in str ( e ) :
+elif args [ 0 ] == "PING" :
+if kwargs is not None :
+if name not in variables :
+elif tp == "flush" :
+if skip_file ( fname ) :
+if "grid" in open ( outputs [ "trans_file" ] , "r" ) . read ( ) :
+if self . _batch is None :
+if same_node ( node , origin ) :
+if check_error_cmd ( result ) :
+if utils . file_exists ( out_file ) :
+if sys . platform in ( "win32" , "cygwin" ) :
+if ( "jprofile" , 0 , "profiler" ) in callers :
+elif isinstance ( self . by_class , int ) :
+if not os . path . exists ( self . _save_controller ) :
+if self . _pin_refs [ pin ] == 0 :
+elif type in self . __event_types_at_proxy :
+if out_headers :
+if iterations > 100 :
+if line :
+if speaker :
+if i :
+if self . _conn_lost >= constants . LOG_THRESHOLD_FOR_CONNLOST_WRITES :
+if x_value in anime :
+if to_remove and line . split ( "=" ) [ 0 ] == to_remove :
+if y is not None :
+if self . getSetting ( "invertMouseWheel" ) :
+if self . vw . isValidPointer ( reg ) and self . vw . getLocation ( reg ) is None :
+if tablename and isinstance ( actions , dict ) :
+if even_only and i % 2 != 0 :
+if cached_trial :
+if workunit . has_label ( label ) :
+if expiration > datetime . datetime . utcnow ( ) . replace ( tzinfo = utc ) :
+if new_torrent :
+if isinstance ( target , six . string_types ) and os . path . isfile ( target ) :
+if not stdout_buffer :
+if key == qkey :
+if sys . platform . lower ( ) . startswith ( "sunos" ) :
+if zim . fs . isabs ( document_root ) or not dir :
+if ent_desc == descriptor :
+if timeout == 0 :
+if team and team . banned :
+if err . args [ 0 ] in ( errno . EAGAIN , errno . EWOULDBLOCK ) :
+elif attr == "closed" :
+if self . finished :
+if self . species_id in path_elements :
+if ind < len ( strings ) and strings [ ind ] . startswith ( " " ) :
+if self . _oauth_creds . access_token_expired :
+if not m :
+if saved is missing :
+if expression_type != "ecma5.1" :
+if ( tweet [ "place" ] or { } ) . get ( "name" ) == "Manhattan" :
+if order == 0 :
+if a > b :
+if loop_count == 0 :
+if batch_size == 0 and emb_dim == 0 :
+if index in flattened_representation :
+if x == 0 and y == 64 :
+if prefix :
+if self . _index == self . _length :
+if _unreserved [ i ] :
+if self . messages . get ( "invalid_signup_code" ) :
+if len ( member ) == 2 :
+if document . sender in DOCUMENT_SENDER_MAP :
+if keras . backend . image_data_format ( ) == "channels_first" :
+if value . country_code and value . national_number :
+if self . ignoreExprs :
+if not exist_ok or not self . is_dir ( ) :
+elif dirs [ m , n ] == "<" :
+if ext not in FILESYSTEM_EXTENSIONS :
+elif callable ( obj ) :
+if val_c is None :
+if "=" in opt and opt . startswith ( "--" ) :
+if retval :
+if thelist . immutable :
+if raw_tag and raw_tag . hasattr ( slug ) :
+if bos_token == "" :
+if item . key == key :
+if line :
+if s . startswith ( "/" ) :
+if os . path . exists ( logpath ) :
+if usdict is None :
+if self . options . required [ option ] is True and not self . options [ option ] :
+if src . exists ( ) :
+if total_length <= max_length :
+if "min_amount_spent" in add_channel . keys ( ) :
+if not service_name . startswith ( self . _name_prefix ) :
+if os . path . islink ( full ) :
+if target_str == u"*** " :
+if request . handler . errno != cherrypy . ECODE :
+if line . startswith ( ">END" ) :
+if hbyte == 0x7F :
+if done :
+elif action == "replacement" :
+if sign * ki > slop :
+if not entry . name . startswith ( "." ) and entry . is_dir ( ) :
+if fixed . packet_type is not PUBLISH :
+if fname [ - 4 : ] == ".pyc" :
+if ts . raw_reward is not None :
+elif line and not line . startswith ( "#" ) :
+if not obj_change . get_sensitive ( ) :
+if not isinstance ( data , dict ) :
+if inst . callername != self . name :
+if semicolon > 0 and semicolon < has_xml :
+if issubclass ( target , mapperlib . Mapper ) :
+if font is None :
+if self . raw_func == "size"
+if self . encryption_password :
+if month != 1 :
+if isinstance ( data , dict ) :
+if isinstance ( expected_ffi_error , str ) :
+if processor is None :
+if search_source in query :
+if self . server . ssl_context is not None and is_ssl_error ( e ) :
+if exc_type :
+if isdir ( dep ) :
+if "{%s}" % self . condition_ns in child . tag :
+if ":" not in tag :
+if sessionCodeMatch :
+if not obj :
+if len ( v ) != len ( newv ) :
+if key in self . allowed_options :
+if os . path . isdir ( itempath ) :
+if size < 0 :
+if cmd_help :
+if response . get ( "NextPageMarker" ) :
+if not isinstance ( item , unicode ) :
+if utils . row_at ( self . view , s . a ) != utils . row_at ( self . view , self . view . size ( ) ) :
+if match :
+if model_site [ "type" ] == "sample" :
+if self . is_translationproject ( ) :
+if "/" in rest :
+if self . src_file is None :
+elif piece :
+if o . event . title :
+if get_cfn_param ( cfn_params , "Scheduler" ) == "awsbatch" :
+if len ( l ) != 3 :
+elif i == _range [ 1 ] + 1 :
+if command_line . line_range . start :
+if clean . startswith ( "Severity:" ) :
+if chart . insert ( new_edge , ( ) ) :
+elif self . op == "/" :
+if x < 0 :
+if not self . old_stderr :
+if button == "X" and data [ 0 ] == 0 :
+if bias :
+if module :
+if isinstance ( p , ( Patch , Ref , Attribute ) ) :
+if fname [ - 4 : ] == ".pyc" :
+if includeAll :
+if "Stats" in old_obj . entries :
+if envvar in os . environ :
+if self . line_num >= self . max_line_num :
+if pos :
+if part is not query [ - 1 ] :
+if isinstance ( value , datetime ) and isinstance ( limit , timedelta ) :
+if mod == "input" :
+if len ( spaceless ) > 1 :
+if self . heap :
+if dtype is np . complex64 and f_name in [ "scatter_min" , "scatter_max" ] :
+if type_id in self . items :
+if continuation_pattern . search ( line ) :
+if constants . rpmCheck or Scheduler . _checkNextPackageIsReadyToBuild ( pkg ) :
+elif obj . use_scope is None :
+if len ( filenames ) == current_dist_depth :
+elif failonerror :
+if "r" in self . _mode :
+if ( e . errno , e . strerror ) != ( 99 , "Address already in use" ) :
+elif re . search ( r"^\s*\/\/" , source ) :
+if units == "units" :
+if stmt . attr_key == "storage_scope" and stmt . value == "local.vtcm" :
+if k == 0 :
+if comm . num_layers == 1 :
+if "%s%s" % ( wrong , nr ) in nzb_name . lower ( ) :
+if f == "status" :
+if length <= self . LENGTH_LIMIT_BLOB :
+if y == - 1 :
+if unified_job . log_format :
+if task :
+if v == "" and allow_empty :
+if uri :
+if step_input . is_current :
+if item in self . _expire_time and self . _expire_time [ item ] < datetime . now ( ) :
+if start is None :
+if loaded_param is not None :
+if w :
+if not os . environ . get ( var ) :
+if name not in indexes :
+if not os . path . exists ( target_path ) :
+if self . _multichoice_head_key in state_dict :
+if not m :
+if pChild . GetMenuBar ( ) is None :
+if isinstance ( module , ConvModule ) and isinstance ( module . conv , nn . Conv2d ) :
+if isinstance ( e , exc_cls ) :
+elif subdir :
+if field . related_query_names
+elif classname in self . treatAsSkip :
+if len ( str ( o ) ) > 2 or not p :
+if ex . errno != errno . EINTR :
+if f in inputfiles :
+if isinstance ( flags , basestring ) :
+if not self . _isWidgetContainer ( child ) :
+if v [ "FeatureType" ] == "val" :
+if "message" in content :
+if width < x :
+if preferences_widget :
+if prefix_words_are_adj :
+if not self . is_running :
+if hasattr ( layer , "W" ) :
+if job . params [ "parentjob" ] not in liftoverjobs :
+if self . consequent :
+if "axis" in self . args :
+if m :
+if isinstance ( args [ 0 ] , cls ) :
+if pendingCharacters :
+if pos_start >= pos_end :
+if fname not in self . _flags :
+if big_client in [ b_client [ 0 ] for b_client in b . clients ] :
+if distance > maximum :
+if text . strip ( ) . lower ( ) == "none" :
+if isinstance ( text , ( CodeViewText , ShellText ) ) and text . is_python_text ( ) :
+if not node . name . startswith ( "_" ) :
+if ctx . map_mode :
+if i in starts :
+if len ( a ) == 1 :
+if exclude_unset :
+if field . max_length :
+if value is None :
+if limit and limit [ key ] > limit :
+if app . is_running and getattr ( app , "debug" , False ) :
+if num is None :
+if value & 0x80 :
+if ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype == "end" or ttype
+if item > self . max_separation + vector [ - 1 ] :
+if value :
+if is_terminated or ( deadline is not None and time . time ( ) > deadline ) :
+if not GPIO . input ( stoppushbutton ) :
+if exc . errno != errno . ECONNREFUSED :
+elif e . kind == "exit" :
+if self . fail_silently :
+if not song . can_change ( tag ) :
+if len ( place_title ) > 24 :
+if buildType == "debug" :
+if os . path . isdir ( itempath ) :
+if not headers . has_key ( field [ 1 ] ) :
+if 65 < n < 65 :
+if value is None :
+if value [ 0 ] == "-" :
+if level and ( not elem . tail or not elem . tail . strip ( ) ) :
+if s < 1 :
+if not names and hasattr ( testCaseClass , "runTest" ) :
+elif self . features . supports_timezones :
+if d . local_diff :
+if type ( obj ) is types . FunctionType :
+elif uri . startswith ( "/" ) :
+if evt == "everything" :
+if p . name in self . Productionnames :
+if x != x2 and y != y :
+elif isinstance ( gate , ParityControlCell ) :
+if k == neighbors . MONGO :
+if not isinstance ( v , str ) :
+if getattr ( ct , attr ) != val :
+elif needs_string_cast :
+if job_type is None :
+if total_weightage > 100 :
+if len ( split_provider_id ) > 1 :
+if relation_is_present
+if old_to . lower ( ) != dfl . lower ( ) :
+if ri == 0 :
+if url not in API_CACHE :
+if stop is not None :
+if args and pyfunction . get_module ( ) . get_resource ( ) is not None :
+if lib2 in libs :
+if hasattr ( fd , "fileno" ) :
+if os . path . exists ( target ) :
+if len ( record ) == 6 and record [ 1 ] :
+elif isinstance ( type_info , rdf_structs . ProtoBinary ) :
+if passive & INIT_OK :
+elif current . _parent is None :
+if result :
+elif message [ "type" ] == "websocket.receive" :
+elif r :
+if self . scroll_up_rect ( ) . collidepoint ( p ) :
+elif decimal and isinstance ( val , decimal . Decimal ) :
+if isinstance ( this , Quantity ) :
+if token . value == "{" :
+if self . set_extension_value ( ext_name , opt ) :
+if isinstance ( attr , ( datetime . timedelta , datetime . datetime ) ) :
+if publication_date is None or is_published :
+if bool ( random . getrandbits ( 1 ) ) :
+if param is None :
+if is_forwarded_environment_variable ( name ) :
+if i < len ( self . reprentries ) - 1 :
+if tabs and item in tabs :
+if self . dockwidget and not self . ismaximized :
+if child . h . startswith ( tag ) :
+elif hasattr ( args [ 0 ] , "items" ) :
+if os . path . getsize ( self . _name ) == 0 :
+if inneuron in self . decompositionIndices :
+if i > 0 :
+if possible_child_hash in self . items :
+if w == "" :
+if not job_name . endswith ( ".json" ) :
+if dataset_results . get ( idx ) :
+if np . array_equal ( observed , self . blur3x3 ) :
+if minGuide == None :
+if self . commit_update [ "Updates" ] != [ ] :
+if Cr . NS_SUCCEEDED ( result ) :
+if position :
+if optimizer_state :
+if command not in { "check" , "recheck" , "run" } :
+if b . data in self . _initialized_instances :
+if u in self . config . linkcheck_request_headers :
+if skip_empty_frame :
+elif code == Path . LINETO :
+if self . value . shape != ( self . layout . gaDims , ) :
+if "loaded" in data_ :
+if ( os . getcwd ( ) + "/" + check + ".py" ) == module :
+elif content_type == "text/html" :
+if fid == 1 :
+if bi . commandName == commandName :
+if comps :
+elif social . get ( key ) == [ ] :
+if ref . namespace == "http://www.w3.org/2001/XMLSchema" :
+if text [ i ] == "\\" :
+if e . errno == errno . EINTR :
+if separator :
+if isinstance ( value , basestring ) :
+if page . info == info :
+if to < from_ :
+if contents . strip ( ) :
+if is_forwarded_environment_variable ( name ) :
+if self . object . __contravariant__ :
+if not safe_execute ( plugin . should_notify , group = group , event = event ) :
+if n . _child . isidentical ( expr ) :
+if "=" not in arg :
+if prog . match ( line ) :
+elif node . is_registration :
+if lbl == lbl :
+if self . ClientsLogged [ str ( self . comboxBoxIPAddress . currentText ( ) ) ] [ "Status" ] :
+if otherval == cellval :
+if self . wafdetections [ wafvendor ] ( self ) :
+if repository_metadata :
+if nextline [ : 3 ] == code and nextline [ 3 : 4 ] != "-" :
+if not isinstance ( val , dict ) :
+if item in self . selectedItems :
+if description :
+if getattr ( view , "smart_indent_instance" , False ) == False :
+if char in char_set :
+if tt == 0 :
+if j == 0 :
+if id_ in self . attrs :
+if n not in ( None , 0 ) :
+if ev . isFinish ( ) :
+if self . _element . text is not None :
+if reg == "ebp" or reg == "esp" :
+if frameinfo . filename == self . filename :
+elif "error" in line :
+if path :
+if default is not None :
+if changed or not template . get ( "annotated" ) :
+if os . path . isdir ( path ) :
+if provider_cls is not None :
+if ares is self . cares :
+if not isinstance ( contents , basestring ) :
+if self . hl_text is not None :
+if functions :
+if page_id in self . error_messages :
+if isinstance ( x , ast . AST ) :
+if value :
+if os . path . isfile ( path ) :
+if self . buf . endswith ( b"\n0\n" ) :
+if b"PYTHONCASEOK" in _bootstrap_external . _os . environ :
+if self . _mtime is None or mtime > self . _mtime :
+elif name == "covar_module.base_kernel.raw_lengthscale" :
+if "__enabled" in result :
+if i % 10000 == 0 :
+if left == right :
+if self . _include_get_headers and request . headers != _DEFAULT_HEADERS :
+if i == 0 :
+if isinstance ( v , dict ) :
+if reach_leaf :
+if trial . number is None :
+if score is None :
+if block_end :
+elif consumed >= 2 :
+if content == ( "Salted__" ) :
+if not is_mapped ( offset ) :
+if account_id in config . get ( "celery.test_account_ids" , [ ] ) :
+if i == refnum :
+if self . image_data :
+if obj . use_scope is None :
+if x . type in discrete_types :
+if output . lower ( ) == "y" :
+if self . _shape_name == sub_section . context . get ( "shape" ) :
+if output . lower ( ) == "y" :
+if isinstance ( index , int ) :
+if len ( locator_parts [ 1 ] ) > 0 :
+if season not in uniqueSeasons :
+if b < 0 :
+if parsed_context . fragment :
+if not self . path_set ( self . table , keys , ( index , item ) ) :
+if tag == "layers" :
+if section not in self . config :
+if self . value [ x ] == input :
+if not data :
+if input . dequeue_count > max_dequeue_count :
+if res :
+if key == "hooks" :
+if filename . endswith ( ".m3u" ) or filename . endswith ( ".m3u8" ) :
+if "interval_aggs" in term_data :
+if flags & FLAG_OVERFLOW :
+if pattern . id == pattern_id :
+if self . filter ( index , key , value ) :
+if block :
+if not data :
+if record . _type in provider . SUPPORTS :
+if ignore is not None :
+if n == minlen :
+if self . trace_dispatch is not None :
+if self . storage_account_name is not None :
+if len ( other_messages ) > 1 :
+if self . request . query :
+if value :
+if not other_child . spec . repeated :
+if child . getchildren ( ) :
+if item == value or item [ : - 1 ] == value :
+if self . content . path . remote is None :
+if self . _needsNewline ( ) :
+if self . legacy_get_dlc_status :
+if sockname :
+if not out [ "success" ] :
+if not tf . gfile . Exists ( unzip_dir ) :
+if key not in environ :
+if isinstance ( item , tf . keras . layers . Layer ) :
+if pattern . match ( path , value ) is not None :
+elif node . hasChildNodes :
+if self . stories :
+if runner . _spark_python_wrapper_path :
+elif ch == "\t" :
+if self . ready :
+if isinstance ( expr_rtype , RTuple ) :
+if params is None :
+elif self . parent . nodeName == "li" and self . parent . childNodes [ 0 ] == self :
+if f . rel and self == f . rel . to . _meta :
+if errors :
+if device_type . value == tvm . nd . cpu ( 0 ) . device_type :
+if self . console_markup :
+elif wrapped :
+if vm_details == "Absent" :
+if is_shadowing ( pname ) :
+if i < j :
+if created_at < mindate or created_at > maxdate :
+if self . greenlet is not None :
+if parse == "xml" :
+if obj . qud :
+if region . empty ( ) :
+if isinstance ( val , dict ) :
+if len ( block ) < 0 :
+if i not in aList :
+if token is Name :
+if "rsa_key_value" in value :
+if prefixed :
+if total is None :
+if p . wait ( ) != 0 :
+if not ret :
+if masking_view . volume_id == device_id :
+if calltip_char not in ( "?" , "(" ) or before or other :
+if exclusive_start_tag_key and key == exclusive_start_tag_key :
+if inspect . isclass ( value ) :
+if isinstance ( p , tuple ) :
+if "_ns" in value :
+if self . _leased_messages . pop ( item . ack_id , None ) is not None :
+if not ls or ls [ 0 ] == "#" :
+if hash_ == initial_hash :
+elif no_symbol :
+if token . endswith ( suffix ) and len ( token ) > 5 :
+if isinstance ( data , unicode ) :
+if not inputs :
+if match is None :
+if self . environment_id :
+if ip . device is not None :
+if not event . get_place_handle ( ) :
+if self . _transport_id in self . _parent . _transports :
+if isinstance ( ty , SimTypeBottom ) :
+if filetypes :
+if self . ctxsrcFullIdx < 0 :
+if i + 1 == len ( self . vars ) - 1 :
+elif requested_namespace [ 0 ] not in IGNORE_DBS :
+if "min_amount_spent" in add_channel . keys ( ) :
+if key == "object" :
+if ip . device is not None :
+if e . response :
+if sales_order :
+if encoding :
+elif not prefix == "" :
+if hasattr ( self . log_file , "flush" ) :
+if length_expr is None :
+if value . lower ( ) not in ( "normal" , "bold" ) :
+if p . wait ( ) != 0 :
+elif field == "asset_id" :
+if string [ idx + start_pos - 1 ] != "\\" :
+if host and host [ 0 ] == "[" and host [ - 1 ] == "]" :
+if hasattr ( self , slot ) :
+if password != key . data :
+if match_word ( s , i , directive ) :
+if timeout_at > self . _global_timeout_at :
+if state == self . shipStates . moving :
+if self . verbose :
+if expected != key :
+if pos_i_id not in self . pos_batch :
+if type != fields [ - 2 ] :
+if return_code == 0 :
+if string_name not in hits_by_context_dict :
+elif not line . strip ( ) :
+if value is None :
+if scope not in binding_name_set_stack :
+if origin :
+if field_name in item :
+if error == "AWS.ECommerceService.CartInfoMismatch" :
+if geometry [ 0 ] > 180 or geometry [ 0 ] < - 90 :
+if step_map [ map_key ] >= ( len ( step_map ) - 1 ) :
+if path == paths [ - 1 ] :
+if isinstance ( payload , bytes ) :
+if f . read ( 1 ) == "1" :
+if hasattr ( model , "_create_content_base" ) :
+if module . bias is not None :
+if not ctype :
+elif dirs [ m , n ] == "<" :
+if not line :
+if hasattr ( t , "isscalar" ) and t . isscalar ( ) and getattr ( r , "size" , None ) == 1 :
+if force_list :
+if isinstance ( prop , MoneyProperty ) :
+if ret :
+if last_time_replaced [ 0 ] :
+if not str :
+if only_select and del_flag in face . flags :
+if key not in six . iterkeys ( dct ) :
+if not current_app . config [ "JSON_AS_ASCII" ] :
+elif len ( value ) != 0 :
+if "=" in p :
+if run_all or exp_cfg [ "key" ] in keys :
+if "tcp" not in key :
+if sentence_splitter
+if form . is_valid ( ) :
+if ctx . author :
+if err :
+elif mod_type == imp . PKG_DIRECTORY :
+if open_files > 0 :
+if tt == 10 :
+if not line or line . startswith ( "#" ) :
+if c [ 0 ] == 0x20 :
+if name . startswith ( prefname ) and name not in excludes :
+if nestedCount == 0 :
+if p . v in seen :
+if found :
+if parent . isMarked ( ) :
+if os . path . exists ( self . fifo_path ) :
+if self . FindItemAtPosition ( ( r , c ) ) is not None :
+if not id_chunk :
+if use_bfloat16 and val . dtype == tf . int32 :
+if func in self . all_callees :
+if "&amp;" in entry [ "url" ] :
+if len ( topo_ ) > 0 :
+if value is None :
+if self . callback :
+if placeholders . exists ( ) :
+if match in self . globs :
+if self . original :
+if os . path . exists ( tour_path ) :
+if self . md_bg_color == t . primary_color :
+if isinstance ( request , numbers . Integral ) :
+if not os . path . exists ( mh . getPath ( "render" ) ) :
+if not hasattr ( THREAD_STORAGE , "html_parser" ) :
+if code == Path . MOVETO :
+if condvalue in rulefieldvalues :
+if image :
+if resp . match ( key [ : - 1 ] , val ) :
+if accept_quality :
+if session :
+if k . isupper ( ) :
+if rflag :
+if response is None :
+if torch . is_tensor ( self . total_divisor ) :
+elif self . wait_counter < self . wait_cntr_max :
+if vh . filepath . endswith ( "sites-enabled/certbot.conf" ) :
+if temp_id . startswith ( "product" ) :
+if combo . GetLabel ( ) == "TR_VIRTUAL" :
+if isinstance ( notebook , str ) :
+if self . checkForStop ( ) :
+if len ( subnet_ids ) > len ( matches ) :
+if app_id in amo . APP_IDS :
+if var in silent_vars :
+if cursor . execute ( "SELECT @@tx_isolation" ) :
+if "" in level_per_module :
+if not eof :
+if flags != 0 :
+if not chrome_launched ( ) :
+if tt == 0 :
+if x . startswith ( home ) :
+if not isinstance ( key , int ) :
+if error_code != errno . EAGAIN or error_code != errno . EWOULDBLOCK :
+if user :
+if not isinstance ( a , ( unicode_type , bytes ) ) :
+if text [ - 1 ] not in "\n\x85\u2028\u2029" :
+if fnmatch . fnmatchcase ( fnm , mask ) :
+if attr != ct :
+if state :
+if ii . space == "evex" :
+if self . _has_parent :
+if w :
+elif type ( userName ) == unicode :
+if return_type is str :
+if key == "b" :
+if field_val is None :
+if match not in matches :
+if chat_id and self . _usernames :
+if len ( l ) < 4 :
+if start < self . skip_start and end < self . skip_end :
+if valuable_length <= ddof :
+elif "field" in condition and "type" not in condition :
+if field_name :
+if self . stopped ( ) :
+if isinstance ( in_arrays , tuple ) :
+if name in d :
+if n > count :
+if os . path . isdir ( path ) :
+if net_start <= test_end and net_start <= test_end :
+if self . textinput :
+if p . name not in nullable :
+if sz > MAX_METADATA_VALUE_SIZE :
+if more :
+if doc in values :
+if expiration > datetime . datetime . utcnow ( ) . replace ( tzinfo = utc ) :
+elif exc . winerror == errno . WSAEACCES :
+if rule . path not in self . rules :
+if j == - 1 :
+if p_old == p_new :
+if self . _key . key_size > 2048 :
+if not isinstance ( statement , list ) :
+if tmp is not None :
+if ( not is_recording ) and enable_trigger_record :
+if ind_f == len ( data_f ) :
+if set ( rule [ "apiGroups" ] ) == set ( apiGroups ) :
+if artifact_status [ "finalize" ] :
+if next_batch is None :
+if k . lower ( ) == ikey :
+if self . match_function ( file ) :
+if "nbgrader" not in cell . metadata :
+elif self . _pos == start :
+elif "left" in settings [ "event" ] :
+elif case ( 3 , 4 ) :
+if item [ "key" ] in TABLE :
+if baked_mat in bpy . data . materials :
+if all ( p . isGanged ( ) for p in self . getPlugs ( ) ) :
+if isinstance ( result , str ) :
+if domain not in exclusions :
+if request is not None :
+if hasattr ( self . url_args , "__call__" ) :
+if not repos :
+elif subdir :
+if n . title not in l :
+elif isinstance ( results [ i ] , list ) :
+if k . startswith ( "_" ) :
+if len ( self . lrvec + self . rlvec ) > 0 :
+if device [ "id" ] != self . app . daemon . get_my_id ( ) :
+if key == "color" :
+if acc [ i ] is not None and vid in self . get_ids ( ) :
+if d > 0 :
+if du . disk_usage > DISK_USAGE_MAX :
+if private :
+if named :
+if not batch :
+if data_list [ 0 ] in forms . fields . EMPTY_VALUES :
+elif old [ key ] != new [ key ] :
+if subscription :
+if isinstance ( m , nn . Conv2d ) :
+if campaign == "prereg" or campaign == "erpc" :
+elif isinstance ( arg , basestring ) :
+if APP_CONFIG . nobuild_files . match ( f ) :
+if path . startswith ( reserved_path ) :
+if self . cov_type == "robust" :
+if "pytorch" in module :
+if self . type == "ASK" :
+if not re . match ( PROCTYPE_MATCH , k ) :
+if key in connections :
+if second_byte == 0x0F and self . amd_enabled :
+if page_id not in self . page_ids :
+if _filepath in path :
+if n < 2 ** n :
+if self . value not in NVMLError . _errcode_to_string :
+if isinstance ( pathdir , bytes ) :
+if isinstance ( self . object , string_types ) and self . object . endswith ( ".vtkjs" ) :
+elif isinstance ( val , text_or_bytes ) :
+if node . is_linked :
+if hasattr ( py_obj , "masks" ) and py_obj . masks :
+if not byte :
+if image :
+if resp :
+if stat . S_ISREG ( st . st_mode ) :
+if action . type == "insert" :
+if self . policy_attribute not in r :
+if i :
+elif not args . content_only :
+if qparams :
+if len ( self . playlist ) == 0 :
+if r :
+if results :
+if not fields :
+if self . coinbase is not None :
+if self . keywords :
+if "Invalid token" in exc . args :
+if util . get_hls_val ( self . color_list [ x ] , "light" ) < 99 :
+if title :
+if name not in self . session . params :
+if isinstance ( prop_vals , ( list ) ) :
+if host :
+if self . _current_iteration > self . hyperband_iterations :
+if dep in self . nodelist :
+if records :
+if line [ 0 ] == " " :
+if subscriber_web_sock == web_sock :
+if withyear :
+if sortkey :
+elif isinstance ( t , str ) :
+if result is None :
+if value . has_form ( "List" , None ) :
+if hasattr ( event , attr ) :
+if self . process . error :
+if isinstance ( inst , Assign ) and inst . value in self . attrs :
+if self . listener_a . is_rotated :
+if todo [ 0 ] in graph . keys ( ) :
+if callable ( result ) :
+if row . delivery_notes :
+if depends != "-" :
+if service_info . server is None :
+if module . padding_idx is not None :
+if occurrences . same_pyname ( self . pyname , pyname ) :
+if self . options . verbose :
+if os . path . isdir ( path ) :
+if os . path . isdir ( os . path . join ( bp_dir , path ) ) :
+if inputs [ socket ] . hide_safe :
+elif pos == "E" :
+if key is None :
+if isinstance ( filename_data , list ) :
+if check_length :
+elif not x . is_atom ( ) and not s . is_atom ( ) :
+if self . instance . poll ( ) is not None :
+if reverse :
+if old_id in class_names :
+if os . path . exists ( base_dir ) :
+if int ( self . page ) < int ( self . total_pages ) :
+elif k == "created_at" :
+if self . is_vector_type :
+if code is not None :
+if result :
+if socket . hide_safe :
+elif isinstance ( parent , pytest . Module ) :
+if line . strip ( ) . decode ( "ascii" ) == "#versions" :
+if user and user . is_authenticated ( ) :
+if token . endswith ( "\n" ) :
+if defMode == 0 :
+if request is None :
+if not self . _update_aes ( ) :
+if result :
+if self . use_prop or self . get_prop_name ( ) :
+if clients :
+if frappe . safe_eval ( pricing_rule . condition , None , doc . as_dict ( ) ) :
+if ignore_none and k in ignore_none :
+if isinstance ( v , NestedSpace ) :
+if task_id not in self . task_host_failed_dict :
+if m :
+if resources :
+if ( "k8s" in r . text ) or ( '"code"' in r . text and r . status_code != 200 ) :
+if parent_context :
+if boxedChunks . issubset ( selectedChunks ) :
+if _is_punctuation ( char ) :
+if not logged :
+if minDist == None :
+elif tp == "flush" :
+if hasattr ( base , "trace" ) :
+if counter1 == counter2 :
+if "stage" not in item . keywords :
+if isinstance ( value , basestring ) :
+if target . domain :
+if tt == 16 :
+if pusher_stats :
+if marker :
+if not isinstance ( arg , ConstMonad ) :
+if sign * ki < - slop :
+if isinstance ( item , Link ) :
+if end_slash > - 1 :
+if reverse :
+if forward_only :
+if self . utexc is None :
+if version is None :
+if self . _opcodes :
+if "help_text" in field :
+if isinstance ( v , dict ) :
+if ss [ "branch" ] :
+if self . with_scaling :
+if key . lower ( ) == "content-length" :
+elif len ( result ) == 2 :
+if self . LT ( i ) :
+if not_null :
+if c . strip ( ) . startswith ( "CSRF-Token-" ) :
+if key == "status" and progress_stats [ "playlist_index" ] :
+if not isinstance ( data , list ) :
+if line :
+if digest not in digests :
+if result :
+if rightname [ 0 ] == "@" :
+if len ( input_shape ) == 1 :
+if i == _range [ 0 ] + 1 :
+if char != "\n" :
+if uri not in files :
+if path [ "isdir" ] :
+if not isinstance ( progress , str ) :
+if attribute . startswith ( "k" ) and isinstance ( value , int ) :
+if data_load :
+if f :
+if len ( splitrow ) > 1 :
+if adj is None :
+if param in facts [ role ] :
+if len ( value ) not in ( 2 , 3 ) :
+if isinstance ( data [ "expires" ] , date ) :
+if name == sc . name :
+if "LockDate" in r :
+if isinstance ( test , ast . Const ) :
+if max_discount and flt ( self . discount_percentage ) > flt ( max_discount ) :
+if i_type [ 0 : 3 ] == "cce" :
+elif elem . tag == "alias" :
+if fn . __name__ != expected_name :
+if ":" in row [ "Splitratio" ] :
+if isinstance ( testdef . exception , Exception ) :
+if avail :
+if li < BLOCKLEN :
+if self . __wrap . type_field in son :
+if self . sorted :
+if conv :
+if not scenario :
+if os . path . isfile ( filename ) :
+if element_location < 130 :
+if tt == 16 :
+if force_generic :
+if field_name in meta_fields :
+if self . root_logger :
+if count > 10 :
+if message_type is OrderBookMessageType . SNAPSHOT :
+if unique_value_count < max_unique_value_count :
+if align_corners :
+elif current . _parent is None :
+if name in self :
+if preferred :
+if link_fingerprint in links_deduped :
+if i == len ( issue_nos ) - 1 :
+if "." in messenger [ "type" ] :
+if field . expression :
+if end_time is None :
+if pem_object . get ( "key_enc" , False ) :
+if isinstance ( nucleotide_seq , Seq . Seq ) :
+if max_el is None or el > max_el :
+if count % 10000 == 0 :
+if add :
+if hasattr ( core , "get_generators" ) :
+if self . body . env . clock . frame < self . training_start_step :
+if self . _delayed_completion_id is not None :
+if resp and resp . status_code == 200 and "member" in resp . json ( ) :
+if day_rule ( ) and time_rule ( ) :
+elif c == "-" and decode :
+if resp :
+if self . vjps == { } :
+if isinstance ( iterable , ( dict , StenoDictionary ) ) :
+if language :
+if hasattr ( a , name ) :
+elif item [ "layout" ] == "vert" :
+if value is not None :
+if isinstance ( request , dict ) and ( request or body_is_optional ) :
+if modname not in used :
+if not getattr ( frame , "_node" , None ) :
+if "dir" in kw :
+if folder == other_path :
+if regexp == test_lit :
+if i == self . _skip - 2 :
+if arg . startswith ( "from_" ) or method is None or not inspect . ismethod ( method ) :
+if self . inputs . subjects_dir :
+if self . queryset :
+if self . is_pyi and is_stub_body ( node ) :
+if self . _pendingSize < 0 :
+if app_name and job_name :
+if "message" in content :
+if i % k == 0 :
+if not graphene_type in self . _typeMap :
+elif size <= 6 :
+if sep :
+if response in files :
+if "." in valname :
+if exc_info is None :
+if not hasattr ( g , "not_equal" ) :
+if config . resolver_nameservers :
+if 0 < term < 65535 :
+if isinstance ( v , dict ) :
+if offset :
+if family :
+if request . retry :
+if ndef [ "color" ] :
+if remove_repetitions and i != 0 and char == sequence [ i - 1 ] :
+elif nodelist [ i - 1 ] . type == token . MINUS :
+if start is not None :
+if len ( job . _directPredecessors ) > 0 :
+if self . _is_true ( self . visit ( comparator_node , element ) ) :
+elif x == y :
+if "filters" in key_name :
+if active_form and self . _prev_action_listen_in_state ( states [ - 1 ] ) :
+if lastBase != name :
+elif vw . isValidPointer ( item ) :
+if dict1 [ option ] is None :
+if s . get ( "status" ) == "Failure"
+if err :
+if extra :
+if not self . __queue . empty ( ) :
+if args . elapsed :
+if requestor_has_access_to_all
+if os . isatty ( sys . stdout . fileno ( ) ) :
+if args is None :
+elif hasattr ( args [ 0 ] , "items" ) :
+if i . startswith ( "DB" ) and i . endswith ( "Error" ) :
+elif isinstance ( sink , ChannelT ) :
+elif str_in [ pos ] == end_tag :
+if confirm_form . is_valid ( ) :
+if response . status_code != 200 :
+elif tok . visibility == "protected" :
+elif not start :
+if self . should_open_name_in_thonny ( name ) :
+if _product_matches_cve ( product , cve_entry ) :
+if APP_CONFIG . nobuild_files . match ( f ) :
+if len ( cache ) > max_size :
+elif item [ 3 ] :
+if encoders :
+if os . environ . has_key ( key ) :
+if not condition_result :
+elif "." in svalue :
+if song :
+if self . bias is not None :
+if self . any_match :
+if len ( element ) > 2 :
+if self . verbose :
+if u :
+if not line . startswith ( "#" ) :
+elif isinstance ( value , ( ContentTypeMapping , ContentTypeDetector ) ) :
+if key in _DEFAULT_CONFIGURATION_KEYS :
+if line == "" :
+if not read_data :
+if self . _call_count > self . ctl or age > self . ttl :
+if type ( f ) == unicode :
+if value is not None :
+if "cn" in self . connection . server . schema . attribute_types :
+elif k is None :
+if level == 0 :
+if any ( ( key == env_key for env_key in environment_keys ) ) :
+if name in self . ctrls :
+if challenge :
+if self .gramplet_map [ title ] . gstate != "detached" :
+if check_password_hash ( u . password , password ) :
+if self . allow_date_in_past :
+if hasattr ( E , "keys" ) :
+if count == 0 :
+if is_atty :
+elif isinstance ( v , list ) or isinstance ( v , tuple ) :
+if attr not in node . attributes :
+if dsn [ i ] . isspace ( ) :
+if isinstance ( button , obj_class ) :
+if idx >= 0 :
+elif delete_ALL_OLD :
+if identifier in self . _values :
+if e . errno != errno . ENOENT :
+if place :
+if encoding in unicode_encodings :
+if os . path . splitext ( f ) [ 1 ] == ".desktop" :
+if applied_item . active :
+if dist > cp :
+if m :
+elif node . binary in ( BINARY_UPDATE , BINARY_DOWNLOAD ) :
+if ";" in date_hdr :
+if len ( value ) != 0 :
+if isinstance ( lastnode . sub [ - 1 ] , unicode ) :
+if not self . check_token ( BlockEntryToken , KeyToken , ValueToken , BlockEndToken ) :
+if verbose :
+if self . frame :
+if exc :
+if isinstance ( self . obj , ( dict , web . threadeddict ) ) :
+elif self [ tag ] != values :
+if not wx . TheClipboard . IsOpened ( ) :
+if found == - 1 :
+if isinstance ( v , inner_class ) and v not in view . get_init_inner_views ( ) :
+if tt == 18 :
+if comment not in f . read ( ) :
+if klass . detect ( path , source ) :
+if hasConst :
+if self . role == "standby_leader" :
+if f in FIELDS_BY_COUNTRY . get ( self . country , { } ) :
+if vm_details == "Absent" :
+if translation :
+if self . count == 0 :
+if not chunk :
+if _interop . _all ( tests ) and ( custom_match is None or custom_match ( d ) ) :
+if isinstance ( self . object , string_types ) and self . object . endswith ( ".vtkjs" ) :
+if error not in str ( ex ) :
+if r < min_r :
+if data and isinstance ( data [ 0 ] , bytes ) :
+if self . backend . name != other . backend . name :
+if start is None :
+if data [ tok_idx ] [ feat_idx ] is None :
+if n . _child . isidentical ( expr ) :
+if tt == 10 :
+if name . startswith ( "<" ) and name . endswith ( ">" ) :
+if not s :
+if self . cluster_rpcserver :
+if architecture_file is None :
+if mpii_idx in mpii_keys :
+if config . header_service :
+if o [ "symbol" ] == convert_to_exchange_trading_pair ( trading_pair )
+if not validate_hotp_secret ( user , otp_secret ) :
+if match . search ( vurl ) :
+if "subtitle_language" in result :
+if filename in directories :
+if not units :
+if site_classes [ n ] . get ( "branch types" ) is None :
+if module_obj :
+if value :
+if p . firstChild :
+if img . width == width and img . height == height :
+if type ( input_types [ 0 ] ) != list :
+if not isinstance ( e , self . quiet_exceptions ) :
+elif step_num < 35000 :
+if topic_arn == arn :
+if len ( expectedPrefix ) + 5 < len ( text ) :
+if v is None :
+if not os . path . isfile ( self . _name ) :
+if path in self . deleted :
+if account_id in config . get ( "celery.test_account_ids" , [ ] ) :
+if config is None :
+if not default_id :
+if ret :
+elif was_selected :
+elif isfile ( path ) and path . endswith ( ".csv" ) :
+if isinstance ( value , dict ) :
+if a not in rule :
+if allow_exception :
+if file . state == File . Saved :
+if menu :
+if cls_ :
+if area is None :
+if name == "wait" :
+if len ( x ) > 1 and x [ 0 ] == "#" :
+if not ureg . Quantity ( value ) . check ( dim ) :
+if strlen > 0 :
+if self . _fd_holder . closed :
+if tab [ 0 ] == "socks" :
+if len ( supers ) == 1 :
+if t :
+if cursor :
+if self . process is None :
+if self . _prompt is None :
+if os . path . exists ( filename ) :
+if cm . unraisable is not None :
+if postdata != { } :
+if "<html" in f . read ( 100 ) . lower ( ) :
+if self . status == UPDATED :
+if not any ( var . item == item for var in variations ) :
+if tt == 0 :
+if x . inode == inode :
+if self . _next_target is not None :
+if p >= self . get_len ( ) :
+if i == 0 :
+if contains_actions ( mutex_actions , actions ) :
+if init_service and init_service in dep_cnt [ "_deps" ] :
+if info is None :
+if e . error == "user_is_bot" :
+if len ( i ) < 2 :
+if enc_key :
+if p == req_port :
+if nodeid not in self . _nodes :
+if has_wildcard and is_logging and self . is_fresh ( trail_details ) :
+if test_id in sb_config . _results . keys ( ) :
+if input == output :
+if m [ 0 ] == "heading" and m [ 1 ] == "header" and m [ 2 ] == "heading" :
+if random . random ( ) < 0.5 :
+if digit in good :
+if not ( code is not None and 48 <= code <= 57 ) :
+if hkey . lower ( ) . startswith ( metadata_prefix ) :
+if processed_any :
+if self . vs_enabled :
+if isinstance ( dep , dependencies . Dependency ) :
+if stream :
+if is_good_mod_exp_first ( A , p ) :
+elif no == EAGAIN :
+if grandchild . tagName != "File" :
+if "tensors" not in tmp :
+if keys [ cur_depth ] in source :
+if mo :
+if rel_obj :
+if func in support_set :
+if name in self . plugins_callback_order
+if token . token_type == TOKEN_CHAR :
+if key == "spider_modules" :
+if settings . MAX_PAGE_SIZE :
+if event [ "handler_check" ] ( handler ) :
+if tt == 0 :
+if self . _createInstanceBinders . ContainsKey ( info ) :
+if "uuid" in body and body [ "uuid" ] :
+if base . get ( var . name ) is not None :
+elif col == FOOD :
+if answer . upper ( ) == "F" :
+if s . b :
+if move :
+if prop is not "members" :
+if key == "access_token" and value in user_pool . access_tokens :
+if fixed . packet_type is not PUBREL :
+if self . _selectedFile :
+if parameter_range_key == "scaling_type" :
+if current is not None :
+if loc [ L_VA ] == ltyp :
+if must_stop ( mp_result . result , self . ns ) :
+if out :
+if ret is False :
+if e . message != self . ZONE_NOT_FOUND_MESSAGE :
+if artist . count ( ) :
+if attrvalue is None :
+if not self . closed :
+if t in self . compat_tokens :
+if self . norm_vars :
+if k not in [ "currency" , "sales_person" ] :
+if cond :
+if len ( fields ) != 2 :
+if has_result :
+if self . type == Segment . CCW :
+if isinstance ( self . _definition , dict ) :
+if threading . current_thread ( ) == threading . main_thread ( ) :
+if fixed . packet_type is not PINGRESP :
+if fut . done ( ) :
+if i :
+if Types . KEYS not in obj :
+if token . value == "{" :
+if os . path . isdir ( path ) :
+if self . width not in [ 100 , 50 , 33 , 25 ] :
+if context . indent_stack :
+if index :
+if expected_err not in str ( exc ) :
+elif op_gprv ( op ) :
+if self . focus_behavior :
+if key in self . unfiltered_metadata :
+if not queryQueueByAfterNateRsp . get ( "status" ) :
+if not line :
+if abs ( n ) < 10 :
+if hasattr ( pricings_list , "value" ) :
+if doc :
+elif not self . word_boundary_char ( text [ right - 1 ] ) :
+if result :
+if s . siblingAbove is None :
+if reset == ACTIVE_LOW :
+if "self" in stack [ 0 ] . f_locals :
+if isinstance ( self . header , RenderedContent ) :
+if form . is_valid ( ) :
+if interchangeable ( flat_fee [ 0 ] , base ) :
+if sys . version_info > ( 3 , 0 ) :
+if options . task_name :
+if schema :
+if "#rating" in song :
+elif not self . word_boundary_char ( text [ right - 1 ] ) :
+if self . _data_wrapper is not None :
+elif self . split < 0.5 :
+if shortok :
+if rel != [ OIC_ISSUER ] :
+if token in self . basic_tokenizer . never_split :
+if check_health :
+elif key == "points" :
+if cls . __process__ :
+if isinstance ( pyclass , pyobjects . AbstractClass ) :
+if result :
+if voice_state :
+if "*" in fromlist :
+if pricing_file :
